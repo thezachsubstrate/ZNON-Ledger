@@ -1,7 +1,4 @@
 # ZNON-Ledger
-Use this to signal institutional purpose and blockchain anchoring.  
-markdown
-# ZNON-Ledger
 
 This repository contains blockchain-anchored governance artifacts for the ZNON specification system.
 

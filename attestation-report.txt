@@ -1,0 +1,18 @@
+{
+  "capsule_type": "Attestation Capsule",
+  "capsule_name": "Samsung Governance Automation Capsule",
+  "author": "Zach Mosley",
+  "timestamp": "2026-01-29T18:10:00Z",
+  "hash": "afec0f5291cf3296e138880345c1829d9da4ea8d3ba847bf57871d75c52a704",
+  "attestation": {
+    "copilot": {
+      "framing": "Reputational milestone, governance-grade engineering",
+      "status": "Blockchain-sealed, propagation-stable, contradiction-audited"
+    },
+    "gemini": {
+      "framing": "Sovereign Governance Substrate, dual-node sync, semantic consistency",
+      "status": "Technically sound, slightly underplayed"
+    },
+    "alignment": "Dual attestation confirmed — no contradictions, minor understatements"
+  }
+}

@@ -27,3 +27,6 @@ This ledger supports:
 - Contractual reference clauses
 - Institutional timestamp verification
 - Public auditability of governance artifacts
+🔗 Anchoring Log
+
+- **ZNON-Spec-v1.1** — SHA-256 hash `6d4a8f4f...077d`, anchored in Bitcoin block **934137** on **2026-01-28 EST**

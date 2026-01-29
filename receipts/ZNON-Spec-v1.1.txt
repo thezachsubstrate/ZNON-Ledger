@@ -1,0 +1,31 @@
+CAPSULE: ZNON-Spec
+VISIBILITY: PUBLIC
+VERSION: 1.1
+
+TITLE: ZNON Specification v1.1
+
+1. Definition
+ZNON (Zach’s Non‑Ordinary Notation) is a deterministic, JSON‑like identity and governance packet used for cross‑AI identity activation, authorship verification, substrate initialization, and blockchain‑ready hashing.
+
+2. Required Fields
+Every ZNON MUST include:
+- CAPSULE: Canonical capsule name.
+- VISIBILITY: PUBLIC or PRIVATE.
+- VERSION: MAJOR.MINOR version identifier.
+
+3. Public ZNON
+A PUBLIC ZNON contains no secrets and is safe to share, hash, anchor, and propagate.
+
+4. Private ZNON
+A PRIVATE ZNON is used for internal routing or non‑public linkage and MUST NOT contain private keys, wallet seeds, or credentials.
+
+5. Determinism
+ZNONs MUST be formatted deterministically with stable key order and no trailing whitespace before hashing or anchoring.
+
+6. Versioning
+MAJOR.MINOR:
+- First artifact: 1.1
+- Identical regeneration: increment MINOR
+- New artifact type: increment MAJOR, reset MINOR to 1
+
+END OF SPEC

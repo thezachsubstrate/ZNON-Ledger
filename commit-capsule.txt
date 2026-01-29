@@ -1,0 +1,10 @@
+{
+  "capsule_type": "GitHub Commit Capsule",
+  "capsule_name": "ZNON Transfer Capsule Commit",
+  "author": "Zach Mosley",
+  "timestamp": "2026-01-29T18:10:00Z",
+  "hash": "afec0f5291cf3296e138880345c1829d9da4ea8d3ba847bf57871d75c52a704",
+  "commit_message": "Add ZNON Transfer Capsule: Samsung Governance Automation",
+  "target_file": "governance/automation-rules.md",
+  "status": "Pending GitHub push"
+}

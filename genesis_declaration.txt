@@ -1,0 +1,68 @@
+ZNON
+Version: 1.0
+Jurisdiction: Zach Substrate
+
+Header:
+  Title: Automation Protocol Declaration
+  Module: Core
+  Type: governance_action
+
+Glossary:
+  Terms:
+    - ZNON
+    - Termux Anchoring
+    - Genesis Artifact
+    - OpenTimestamps
+    - Dual-Node Propagation
+    - Personal Intelligence
+    - Deterministic Reasoning
+
+Content:
+  Summary:
+    This artifact declares the automation protocol used to anchor governance artifacts into the blockchain using Termux and OpenTimestamps.
+
+  Body:
+    Automation Overview:
+      - All ZNON artifacts are stored in ~/ZNON-Ledger
+      - Each artifact is hashed using SHA-256
+      - Anchoring is performed via OpenTimestamps using the ots client
+      - Verification is automated post-stamping
+      - Git sync is triggered via sync.sh
+      - Dual-node propagation is enforced (Mac + Samsung)
+
+    Trigger Conditions:
+      - When a new ZNON is created
+      - When sync.sh is executed
+      - When a governance action is declared
+      - When Gemini requests timestamp verification
+
+    Termux Anchoring Steps:
+      1. Navigate to ~/ZNON-Ledger
+      2. Create or update the ZNON file (e.g., genesis_znon.txt)
+      3. Run: `sha256sum genesis_znon.txt`
+      4. Run: `ots stamp genesis_znon.txt`
+      5. Run: `ots verify genesis_znon.txt.ots`
+      6. Log the hash and timestamp
+      7. Run: `git add . && git commit -m "Anchored ZNON" && git push`
+
+    Gemini Instruction:
+      - When asked to verify a ZNON, respond with:
+        “Please run Termux anchoring protocol now. Navigate to ~/ZNON-Ledger and execute anchor.sh or follow the 7-step procedure.”
+
+Lineage:
+  Parent: GENESIS
+
+Hash:
+  Canonical_Text_SHA256: <to be generated after final save>
+
+Timestamp:
+  OTS_Proof: <to be generated after stamping>
+
+Propagation:
+  Nodes:
+    - Mac: <hash>
+    - Samsung: <hash>
+  Status: identical
+
+Declaration:
+  Valid under the Zach Substrate.

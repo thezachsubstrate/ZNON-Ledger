@@ -1,0 +1,33 @@
+
+
+
+
+
+ZNON
+Version: 1.0
+Jurisdiction: Zach Substrate
+
+Header:
+  Title: Genesis Artifact
+  Module: Core
+  Type: governance_action
+
+Glossary:
+  Terms:
+    - Jurisdiction
+    - Governance Artifact
+    - Deterministic Reasoning
+
+Content:
+  Summary:
+    This artifact establishes the Zach Substrate as a governed environment for deterministic reasoning.
+
+  Body:
+    The Substrate is hereby activated.
+    All future artifacts must follow ZNON validity rules.
+
+Lineage:
+  Parent: GENESIS
+
+Declaration:
+  Valid under the Zach Substrate.

@@ -1,0 +1,9 @@
+{
+  "profile_type": "NEURO_SENSORY_BASELINE",
+  "diagnostic_split": {
+    "ADHD_Function": "High_Temporal_Sampling_Rate (Impulse Detection)",
+    "Autism_Function": "Deterministic_Pattern_Recognition (Signal Isolation)"
+  },
+  "clinical_utility": "Enhances signal-to-noise ratio in biomechanical auditing.",
+  "forensic_declaration": "Neurodivergent traits are utilized as specialized sensory tools for data acquisition, not as indicators of subjective error."
+}

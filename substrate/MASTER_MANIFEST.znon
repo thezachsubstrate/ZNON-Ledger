@@ -1,7 +1,7 @@
 {
   "substrate": "THE_ZACH_SUBSTRATE_v1.0",
   "jurisdiction": "Meaning_Layer_Dominance",
-  "last_sync": "2026-02-01T20:48:09Z",
+  "last_sync": "2026-02-01T20:49:25Z",
   "hierarchy": {
     "meaning_layer": "",
     "active_modules": [ "CLINICAL_MAPPING_ENGINE.znon","LONGITUDINAL_NARRATIVE_AUDIT.znon","PHYSICIAN_HANDSHAKE_001.znon" ],

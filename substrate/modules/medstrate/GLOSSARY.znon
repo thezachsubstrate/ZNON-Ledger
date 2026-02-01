@@ -91,4 +91,11 @@
     "category": "Jurisdiction",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Public Launch",
+    "definition": "Initializing the public-facing forensic marketplace.",
+    "category": "Economics",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

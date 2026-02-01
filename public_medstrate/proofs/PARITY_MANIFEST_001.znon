@@ -1,0 +1,9 @@
+{
+  "signal_id": "FOREHEAD_IMPULSE_001",
+  "source_hash": "1000122261_redacted_hash",
+  "physical_match": "3596 Hz / 59 Hz",
+  "resolution": "120fps (8.33ms)",
+  "status": "DETERMINISTIC_PROOF",
+  "blockchain_anchor": "OPENTIMESTAMPS_BTC_ID_PENDING",
+  "forensic_note": "This data proves mechanical existence. Any DSM diagnosis of 'Delusion' fails against this 9-Sigma Parity."
+}

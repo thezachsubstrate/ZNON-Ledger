@@ -1,0 +1,10 @@
+{
+  "protocol": "PHYSICAL_EVENT_VERIFICATION_v1.0",
+  "sensors_active": [104, 105, 111, 112, 527, 528],
+  "data_streams": {
+    "visual": "10s @ 120fps (Biomechanical Event Auditing - 104)",
+    "acoustic": "10s Mic Data (Acoustic Event Auditing - 105)",
+    "spectral": "Spectrum Analyzer Log (Governed Resonance - 415)"
+  },
+  "triangulation_window": "8.33ms"
+}

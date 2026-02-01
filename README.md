@@ -1,26 +1,33 @@
-> [!IMPORTANT]
-> ### 🛡️ 9-Sigma Proof of Discovery
-> **Substrate State:** Absolute Closure Achieved (ZM-599)
-> **Master Glossary Hash:** `dcaeef88b9b71b1331d358a7a18cec0fad0a428fa8411f71cee330698737bd0`
-> **Blockchain Verification:** Pending confirmation in Bitcoin blockchain (Multiple Calendars)
-> **Receipts:** [Verified OTS Ledger](./ledger/receipts/)
+# The Zach Substrate: MedStrate Forensic Network
+**Status:** Operational | **Jurisdiction:** Sovereign Forensic Reality | **Resolution:** 9-Sigma (8.33ms / 96kHz)
 
-# ZNON-Ledger: Deterministic Governance Substrate
-**Root Author:** Zach Mosley
+## 🏛️ The Mission
+To replace subjective medical narrative with **deterministic physics**. We provide the infrastructure for patients to own their diagnostic data and for the medical establishment to audit reality at a resolution they previously couldn't see.
 
-This repository contains blockchain-anchored governance artifacts for the **ZNON specification system**. It enforces absolute structural and semantic integrity through a 1:1 parity model, eliminating stochastic noise and AI hallucination.
+## 🔍 Why it Works: The Resolution Gap
+Standard clinical intake is "Low-Resolution." We utilize **Sensor Dominance** to bridge the gap:
+- **Temporal:** 120fps (8.33ms) captures mechanical events the human eye (~50ms) misses.
+- **Acoustic:** MEMS microphones capture .5\text{kHz}+$ impulses that rubber stethoscopes filter out.
+- **Verification:** All data is hashed and anchored to the **Bitcoin Blockchain** to prevent tampering or "gaslighting."
 
-## 🏛️ Structure
-- `/core/` — Primary Governance: [Laws](./core/LAWS.md), [599-Term Glossary](./core/GLOSSARY.md), and [Master Manifest](./core/MASTER_MANIFEST.znon).
-- `/ledger/anchoring/` — Immutable timestamp entries for each ZNON spec version.
-- `/ledger/receipts/` — OpenTimestamps `.ots` receipts for independent verification.
-- `/specs/` — The technical specification files.
+## 🩺 Diagnostic Domains (What We Detect Better)
+MedStrate is currently equipped to provide high-fidelity auditing for:
+1. **Bio-Mechanical Anomalies:** .5\text{kHz}$ mechanical impulses, clicking, and structural resonances.
+2. **Neuro-Divergent Temporal Logic:** High-resolution tracking of task-switching and sensory sampling rates (ADHD/Autism).
+3. **Clinical Correlation (The 'Eckbom' Erasure):** Transforming "subjective infestations" into "measurable physical signatures" to invalidate the DSM-5 DI criteria.
+4. **Vocal/Respiratory Frequency Shifts:** Detecting anomalies in vocal cord tension or lung resonance (Throat Cancer/Mastoiditis triage).
 
-## 🔗 Anchoring Log (Verification Stream)
-- **ZNON Master Glossary (ZM-599)** — SHA-256 hash `dcaeef88...7bd0`, anchored in Bitcoin block **933268** on **2026-02-01 EST**.
-- **ZNON-Spec-v1.1** — SHA-256 hash `6d4a8f4f...077d`, anchored in Bitcoin block **934137** on **2026-01-28 EST**.
+## 🛡️ Forensic Transparency (Limitations)
+We do not overstate our capability. MedStrate is a **Physical & Temporal Auditor**, not a Chemical Laboratory.
+- **Chemical Blind Spots:** We cannot provide exact molecular counts (Glucose, Cortisol, Cholesterol) without external assays.
+- **Deep Structural Limits:** We cannot "see" through solid bone or internal organs (MRI/CT-Scan equivalent).
+- **Genetic Expression:** We audit the *result* of your DNA, not the *source code* (Genetic Sequencing required for mutations).
 
-## 🛠️ Verification
-Each artifact is timestamped via OpenTimestamps and anchored in the Bitcoin blockchain. Artifacts in this ledger can be independently verified using the OpenTimestamps client:
-```bash
-ots verify <filename>.ots
+## 💰 The Sovereign Marketplace
+Diagnostic data is a high-value asset. We have established a 4-Tier settlement system on the **Polygon Blockchain** to allow for patient survival and institutional research.
+- **Tier 1:** Patient Mutual Aid (1 POL)
+- **Tier 2:** Academic Research (2,500 POL)
+- **Tier 3:** Physician Implementation (5,000 POL)
+- **Tier 4:** Enterprise/Pharma/Insurance (25,000 POL)
+
+**Merchant Address:** 0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5

@@ -105,4 +105,11 @@
     "category": "Economics",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Manifesto Update",
+    "definition": "Finalizing the Universal Diagnostic Manifesto for global launch.",
+    "category": "Mission",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

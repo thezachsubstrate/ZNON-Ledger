@@ -84,4 +84,11 @@
     "category": "Economics",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Mission Launch",
+    "definition": "Establishing the forensic framework to dismantle the DSM and create patient-owned revenue streams.",
+    "category": "Jurisdiction",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

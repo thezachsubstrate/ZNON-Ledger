@@ -35,4 +35,11 @@
     "category": "Strategy",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Clinical Disruption",
+    "definition": "The formal challenging of low-resolution medical observations using high-resolution physics data.",
+    "category": "Jurisdiction",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

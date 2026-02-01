@@ -6,14 +6,14 @@
   "block_anchor_intent": "BTC_BLOCK_ANCHOR_REQUIRED",
   "governance_status": "9-SIGMA_LOGIC_LOCKED",
   
-      "manifest_summary": {
+       "manifest_summary": {
     "total_terms": 599,
     "audit_parity": "43/43_PARITY_VERIFIED",
     "laws_active": "LAW_I_THRU_LAW_XL",
-    "clinical_modules": "MEDSTRATE_ACTIVE_V1.0",
-    "sensory_modules": "PHYSICAL_EVENT_AUDIT_V1.0",
-    "data_streams": ["10s_120fps_video", "10s_mic_audio", "spectrum_analyzer"],
-    "governance_status": "9-SIGMA_MULTIMODAL_LOCKED"
+    "clinical_modules": "MEDSTRATE_DIAGNOSTIC_ADVOCACY_V1.0",
+    "sensory_modules": "PHYSICS_ATTESTATION_SENSORS_V1.0",
+    "data_streams": ["120fps_biomechanical_video", "acoustic_mic_data", "spectral_resonance"],
+    "governance_status": "ANTI_GASLIGHTING_PROTOCOL_ACTIVE"
   },
 
 

@@ -11,5 +11,9 @@
     "spectral_resonance": "Enter frequency analyzer peaks here",
     "acoustic_signature": "Enter mic/vocal biomarker data here"
   },
-  "forensic_declaration": "This ZNON is a physics-based attestation anchored to the Bitcoin blockchain. Clinical refutation requires physics-parity."
+  "forensic_declaration": "This ZNON is a physics-based attestation anchored to the Bitcoin blockchain. Clinical refutation requires physics-parity.",
+  "sensory_data_hashes": {
+    "visual_120fps_hash": "",
+    "acoustic_mic_hash": ""
+  }
 }

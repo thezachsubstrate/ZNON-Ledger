@@ -42,4 +42,11 @@
     "category": "Jurisdiction",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Referral Mandate",
+    "definition": "A technical document used to compel clinical referrals based on high-resolution physics data.",
+    "category": "Advocacy",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

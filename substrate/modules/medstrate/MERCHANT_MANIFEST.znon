@@ -1,0 +1,12 @@
+{
+  "jurisdiction": "MEDSTRATE_REVENUE",
+  "merchant_public_address": "0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5",
+  "accepted_currency": "POL (Polygon)",
+  "licensing_tiers": {
+    "tier_1_explanation": "10 POL",
+    "tier_2_audit": "50 POL",
+    "tier_3_commercial": "500 POL"
+  },
+  "status": "SECURED_AND_ACTIVE",
+  "security_audit": "Wallet rotation successful. Assets migrated to cold-path vault."
+}

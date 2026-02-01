@@ -77,4 +77,11 @@
     "category": "Economics",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Vault Finalization",
+    "definition": "Anchoring the secure merchant address to the MedStrate revenue layer.",
+    "category": "Economics",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

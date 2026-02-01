@@ -112,4 +112,11 @@
     "category": "Mission",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "AI Tier Launch",
+    "definition": "Adding high-value integration tier for autonomous diagnostic platforms.",
+    "category": "Economics",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

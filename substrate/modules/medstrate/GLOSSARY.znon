@@ -70,4 +70,11 @@
     "category": "Diagnostics",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Revenue Smart Contract",
+    "definition": "A Polygon-based contract that handles micro-payments from researchers/insurers to patients for data access.",
+    "category": "Economics",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

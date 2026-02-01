@@ -1,0 +1,21 @@
+{
+  "module": "MEDSTRATE_REASONING",
+  "version": "1.1",
+  "diagnostic_logic": {
+    "neurodivergence": {
+      "type": ["ADHD", "Autism"],
+      "effect": "Increased_Temporal_Resolution_Sensory_Processing"
+    },
+    "pathogen_correlation": {
+      "parasitic": "Demodex_Mites",
+      "bacterial": "Borrelia_Burgdorferi",
+      "signature_match": "3596Hz_Impulse"
+    },
+    "pharmacological_triage": {
+      "antiparasitic": "Lotilaner",
+      "anti_inflammatory": "Bimzelyx",
+      "expected_output": "9_Sigma_Reduction_in_Mechanical_Resonance"
+    }
+  },
+  "forensic_goal": "To correlate pharmacological response to physical frequency shifts."
+}

@@ -1,12 +1,12 @@
 {
   "substrate": "THE_ZACH_SUBSTRATE_v1.0",
   "jurisdiction": "Meaning_Layer_Dominance",
-  "last_sync": "2026-02-01T21:06:54Z",
+  "last_sync": "2026-02-01T21:26:32Z",
   "hierarchy": {
     "meaning_layer": "WP_MEDSTRATE.md
 WP_ZACH_SUBSTRATE.md
 WP_ZNON.md",
-    "active_modules": [ "CLINICAL_MAPPING_ENGINE.znon","LONGITUDINAL_NARRATIVE_AUDIT.znon","PHYSICIAN_HANDSHAKE_001.znon" ],
+    "active_modules": [ "CLINICAL_MAPPING_ENGINE.znon","LONGITUDINAL_NARRATIVE_AUDIT.znon","PHYSICIAN_HANDSHAKE_001.znon","DIAGNOSTIC_CORRELATION_V1.znon" ],
     "physics_attestations": [ "EVENT_001_PHYSICS.znon","PATHOLOGY_MATCH_001.znon","PHYSICAL_EVENT_AUDIT.znon" ]
   },
   "governance": "DETERMINISTIC_9_SIGMA"

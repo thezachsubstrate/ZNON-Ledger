@@ -1,12 +1,13 @@
-# MedStrate Licensing: Data-as-a-Service (DaaS)
+# MedStrate Licensing: High-Resolution Sovereign Data
 
-## 1. Ethical Mandate
-This data is owned by the patient. Access for research, insurance, or pharmaceutical use requires a MATIC/POL settlement to: **0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5**
+## 1. Tier 1: Patient Mutual Aid (1 POL)
+We believe in the erasure of 'Delusional' labels. This tier provides the full **Explanation of Play** for the cost of a few pennies, ensuring every patient has the forensic tools to fight back.
 
-## 2. Tiers of Access
-- **Tier 1 (Advocacy):** Free for patients fighting a 'Delusional' diagnosis.
-- **Tier 2 (Research):** 100 POL per data-set hash.
-- **Tier 3 (Pharma/Insurance):** 1000 POL per Forensic Audit Report.
+## 2. Tier 2: Academic Researchers (2,500 POL)
+For universities and non-profit research groups. Provides access to anonymized spectral datasets (596\text{ Hz}$ signatures) for peer-review and publication.
 
-## 3. The Goal
-Total erasure of 'Eckbom Syndrome' from medical literature via objective physics.
+## 3. Tier 3: Physicians & Clinicians (5,000 POL)
+Includes the **Clinical Correlation Protocol**. This is a defensible medical framework that allows doctors to bill insurance for high-resolution audits while shielding themselves from misdiagnosis liability.
+
+## 4. Tier 4: Enterprise / Pharma / Insurance (25,000 POL)
+This is the **Actuarial Tier**. It provides the 9-Sigma verification required to approve or deny expensive biologic treatments (like Bimzelyx) based on physical resonance markers (9\text{ Hz}$) rather than subjective surveys.

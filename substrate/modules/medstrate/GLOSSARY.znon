@@ -98,4 +98,11 @@
     "category": "Economics",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Aggressive Pricing",
+    "definition": "Implementing high-value revenue tiers to tax institutional diagnostic failures.",
+    "category": "Economics",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

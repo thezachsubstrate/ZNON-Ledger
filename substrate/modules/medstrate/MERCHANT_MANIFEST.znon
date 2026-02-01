@@ -3,10 +3,14 @@
   "merchant_public_address": "0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5",
   "accepted_currency": "POL (Polygon)",
   "licensing_tiers": {
-    "tier_1_explanation": "10 POL",
-    "tier_2_audit": "50 POL",
-    "tier_3_commercial": "500 POL"
+    "tier_1_patient": "1 POL (Mutual Aid Access)",
+    "tier_2_academic": "2,500 POL (Institutional Research License)",
+    "tier_3_physician": "5,000 POL (Clinical Implementation & Liability Shield)",
+    "tier_4_enterprise": "25,000 POL (Pharma/Insurance/Actuarial Audit)"
   },
-  "status": "SECURED_AND_ACTIVE",
-  "security_audit": "Wallet rotation successful. Assets migrated to cold-path vault."
+  "tier_logic": {
+    "tier_1": "Subsidized to ensure no patient is left behind.",
+    "tier_4": "Reflects the cost-savings of preventing unnecessary lifelong biologic mis-administration."
+  },
+  "status": "SECURED_AND_ACTIVE"
 }

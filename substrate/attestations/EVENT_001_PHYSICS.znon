@@ -1,0 +1,15 @@
+{
+  "znon_type": "PHYSICS_ATTESTATION",
+  "jurisdiction": "THE_ZACH_SUBSTRATE",
+  "event_id": "EVENT_001",
+  "evidence_metadata": {
+    "timestamp": "2026-02-01T20:39:41Z",
+    "hardware": "Samsung_S24_Ultra_Sensor_Array"
+  },
+  "physics_observations": {
+    "visual_120fps": "Enter biomechanical observations here",
+    "spectral_resonance": "Enter frequency analyzer peaks here",
+    "acoustic_signature": "Enter mic/vocal biomarker data here"
+  },
+  "forensic_declaration": "This ZNON is a physics-based attestation anchored to the Bitcoin blockchain. Clinical refutation requires physics-parity."
+}

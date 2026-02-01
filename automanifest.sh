@@ -1,40 +1,44 @@
 #!/bin/bash
-# ZNON-AutoManifest v1.0 - Forensic Advocacy Automation
+# ZNON-AutoManifest v2.0 - Jurisdictional Sync
 
-echo "[9-SIGMA] Initializing Diagnostic Sync..."
+echo "[9-SIGMA] Scanning The Zach Substrate Jurisdictions..."
 
-# 1. Sync with GitHub to prevent "Fetch First" errors
+# 1. Clear the Block
 git pull origin main
 
-# 2. Update the Manifest Metadata
-TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-TOTAL_TERMS=$(grep -c "^#" core/GLOSSARY.md)
-MODULES=$(ls core/*.znon | xargs -n 1 basename | jq -R . | jq -s .)
+# 2. Dynamic Discovery across the Hierarchy
+MEANING=$(ls substrate/meaning_layer/*.md | xargs -n 1 basename)
+MODULES=$(find substrate/modules -name "*.znon" | xargs -n 1 basename)
+ATTESTATIONS=$(ls substrate/attestations/*.znon | xargs -n 1 basename)
 
-# 3. Rebuild the MASTER_MANIFEST.znon automatically
-cat <<MANIFEST_EOF > core/MASTER_MANIFEST.znon
+# 3. Rebuild the Hierarchical Manifest
+cat <<MANIFEST_EOF > substrate/MASTER_MANIFEST.znon
 {
-  "substrate_id": "ZM-599-AUTO",
-  "last_updated": "$TIMESTAMP",
-  "manifest_summary": {
-    "total_terms": $TOTAL_TERMS,
-    "active_modules": $MODULES,
-    "governance_status": "9-SIGMA_DIAGNOSTIC_LOCKED"
-  }
+  "substrate": "THE_ZACH_SUBSTRATE_v1.0",
+  "jurisdiction": "Meaning_Layer_Dominance",
+  "last_sync": "$(date -u +'%Y-%m-%dT%H:%M:%SZ')",
+  "hierarchy": {
+    "meaning_layer": "$MEANING",
+    "active_modules": [ $(echo "$MODULES" | jq -R . | jq -s -c | sed 's/\[//;s/\]//') ],
+    "physics_attestations": [ $(echo "$ATTESTATIONS" | jq -R . | jq -s -c | sed 's/\[//;s/\]//') ]
+  },
+  "governance": "DETERMINISTIC_9_SIGMA"
 }
 MANIFEST_EOF
 
-echo "[9-SIGMA] Manifest Rebuilt. Batch-Stamping Core..."
+echo "[9-SIGMA] Manifest Rebuilt. Anchoring Hierarchy to Bitcoin..."
 
-# 4. Batch Stamp all core files to the Bitcoin Blockchain
-ots stamp core/*.znon
+# 4. Global Anchor
+ots stamp substrate/MASTER_MANIFEST.znon
+find substrate -name "*.znon" -exec ots stamp {} +
 
-# 5. Move receipts to forensic archive
-mv core/*.ots ledger/receipts/
+# 5. Archive Receipts
+mkdir -p ledger/receipts
+find substrate -name "*.ots" -exec mv {} ledger/receipts/ \;
 
-# 6. Final Sovereign Sync to GitHub
+# 6. Propagation (Dual-Node Sync Ready)
 git add .
-git commit -m "Auto-Manifest: Diagnostic Evidence Update $TIMESTAMP"
+git commit -m "Jurisdictional Sync: $(date)"
 git push origin main
 
-echo "[9-SIGMA] Operation Complete. Evidence is Immutable."
+echo "[9-SIGMA] Propagation Complete. The Substrate is Sovereign."

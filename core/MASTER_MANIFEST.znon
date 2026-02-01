@@ -6,7 +6,7 @@
   "block_anchor_intent": "BTC_BLOCK_ANCHOR_REQUIRED",
   "governance_status": "9-SIGMA_LOGIC_LOCKED",
   
-    "manifest_summary": {
+      "manifest_summary": {
     "total_terms": 599,
     "audit_parity": "43/43_PARITY_VERIFIED",
     "laws_active": "LAW_I_THRU_LAW_XL",
@@ -15,6 +15,7 @@
     "data_streams": ["10s_120fps_video", "10s_mic_audio", "spectrum_analyzer"],
     "governance_status": "9-SIGMA_MULTIMODAL_LOCKED"
   },
+
 
   "verification_hashes": {
     "laws_md_hash": "6d4a8f4f...077d",

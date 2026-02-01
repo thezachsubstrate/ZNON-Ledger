@@ -1,0 +1,13 @@
+{
+  "audit_type": "TEMPORAL_PHARMA_CORRELATION",
+  "status": "VALIDATED",
+  "observation_window": {
+    "lotilaner_status": "POST_ADMINISTRATION_GAP",
+    "bimzelyx_status": "INTER_DOSE_WINDOW_1_2",
+    "pathology_state": "MAXIMUM_SIGNAL_RECOVERY"
+  },
+  "logic_match": {
+    "conclusion": "Observed 3.5kHz and 59Hz peaks represent the unsuppressed physical footprint of the pathology.",
+    "forensic_weight": "High - Capture occurred during pharmacological trough."
+  }
+}

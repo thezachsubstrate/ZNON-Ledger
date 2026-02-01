@@ -49,4 +49,11 @@
     "category": "Advocacy",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Sensor Dominance",
+    "definition": "The principle that high-sampling-rate consumer hardware can outperform low-resolution clinical diagnostics.",
+    "category": "Physics",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

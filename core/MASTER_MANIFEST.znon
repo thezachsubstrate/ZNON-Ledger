@@ -6,7 +6,7 @@
   "block_anchor_intent": "BTC_BLOCK_ANCHOR_REQUIRED",
   "governance_status": "9-SIGMA_LOGIC_LOCKED",
   
-         "manifest_summary": {
+         "  "manifest_summary": {
     "total_terms": 599,
     "audit_parity": "43/43_PARITY_VERIFIED",
     "clinical_modules": "MEDSTRATE_UNIFIED_ADVOCACY_V1.2",

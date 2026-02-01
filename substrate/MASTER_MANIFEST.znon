@@ -1,9 +1,11 @@
 {
   "substrate": "THE_ZACH_SUBSTRATE_v1.0",
   "jurisdiction": "Meaning_Layer_Dominance",
-  "last_sync": "2026-02-01T20:49:25Z",
+  "last_sync": "2026-02-01T20:51:50Z",
   "hierarchy": {
-    "meaning_layer": "",
+    "meaning_layer": "WP_MEDSTRATE.md
+WP_ZACH_SUBSTRATE.md
+WP_ZNON.md",
     "active_modules": [ "CLINICAL_MAPPING_ENGINE.znon","LONGITUDINAL_NARRATIVE_AUDIT.znon","PHYSICIAN_HANDSHAKE_001.znon" ],
     "physics_attestations": [ "EVENT_001_PHYSICS.znon","PHYSICAL_EVENT_AUDIT.znon" ]
   },

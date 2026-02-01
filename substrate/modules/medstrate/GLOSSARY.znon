@@ -21,4 +21,11 @@
     "category": "Advocacy",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Sovereign Forensic Auditor",
+    "definition": "A patient who utilizes blockchain-anchored data (120fps/Spectral) to audit clinical observations.",
+    "category": "Jurisdiction",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

@@ -1,0 +1,16 @@
+{
+  "znon_type": "CLINICAL_HANDSHAKE",
+  "authority": "THE_ZACH_SUBSTRATE",
+  "status": "AWAITING_PHYSICIAN_ATTESTATION",
+  "disclosure_summary": {
+    "evidence_anchored": ["EVENT_001_PHYSICS"],
+    "blockchain_receipts": "Verified_via_OpenTimestamps_Bitcoin",
+    "physics_footprint": "Biomechanical/Acoustic patterns detected"
+  },
+  "physician_acknowledgment": {
+    "i_confirm_receipt": false,
+    "i_have_reviewed_anchored_physics": false,
+    "rationale_for_dismissal": "IF DISMISSED, PHYSICIAN MUST PROVIDE PHYSICS-BASED REFUTATION HERE"
+  },
+  "forensic_notice": "Failure to acknowledge anchored physics data establishes a jurisdictional record of clinical oversight."
+}

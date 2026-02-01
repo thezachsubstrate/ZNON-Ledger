@@ -28,4 +28,11 @@
     "category": "Jurisdiction",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Anti-Matchbox Shield",
+    "definition": "The transition from subjective physical samples to objective digital signals (Hashed/Timestamped) to prevent dismissive labeling.",
+    "category": "Strategy",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

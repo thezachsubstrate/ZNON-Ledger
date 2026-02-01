@@ -63,4 +63,11 @@
     "category": "Strategy",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Gap Analysis",
+    "definition": "Identifying the specific laboratory tests required to validate the MedStrate physics data.",
+    "category": "Diagnostics",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

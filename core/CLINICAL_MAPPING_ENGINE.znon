@@ -1,0 +1,10 @@
+{
+  "module": "CLINICAL_MAPPING_ENGINE_v1.0",
+  "logic_bridge": "Physical_to_ICD11",
+  "mapping_rules": {
+    "spectral_resonance_peak": "Map to Laryngeal/Esophageal Pathology [Sensor 110]",
+    "biomechanical_tremor_120fps": "Map to Neurological/Motor-Control Indicators [Sensor 104]",
+    "acoustic_anomaly": "Map to Respiratory/Vocal-Fold biomarkers [Sensor 105]"
+  },
+  "diagnostic_veto": "Trigger warning if DSM labels are applied without addressing physics-based spectral matches."
+}

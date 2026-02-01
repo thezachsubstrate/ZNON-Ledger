@@ -56,4 +56,11 @@
     "category": "Physics",
     "jurisdiction": "MEDSTRATE"
   }
+  ,
+  {
+    "term": "Domain Mapping",
+    "definition": "Defining the operational limits and strengths of MedStrate vs traditional imaging.",
+    "category": "Strategy",
+    "jurisdiction": "MEDSTRATE"
+  }
 ]

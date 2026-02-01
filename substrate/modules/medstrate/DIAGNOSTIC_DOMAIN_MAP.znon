@@ -1,0 +1,14 @@
+{
+  "module": "MEDSTRATE_SENSOR_LOGIC",
+  "capable_domains": {
+    "acoustic_pathology": ["Throat_Cancer", "Mastoiditis", "Mechanical_Impulse"],
+    "visual_pathology": ["Arthritis", "Demodex", "Dermatological_Lyme"],
+    "temporal_pathology": ["ADHD", "Autism", "Neuro_Degeneration"]
+  },
+  "external_requirement_triggers": {
+    "chemical_assay": "Required for Molecular/Hormonal counts",
+    "ionizing_radiation": "Required for Deep Bone/Internal Organ geometry",
+    "genetic_sequencing": "Required for Source Code/Mutation analysis"
+  },
+  "forensic_stance": "Smartphone sensors handle the 80% majority of surface and acoustic diagnostics. External imaging is treated as a 'Secondary Validation' for deep-tissue anomalies."
+}

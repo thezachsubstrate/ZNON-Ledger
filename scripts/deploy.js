@@ -1,10 +1,8 @@
 const hre = require("hardhat");
 
 async function main() {
-  const MedStrate = await hre.ethers.getContractFactory("MedStrateAudit");
-  const contract = await MedStrate.deploy();
-  await contract.waitForDeployment();
-  console.log("✅ 9-Sigma Contract Deployed to:", await contract.getAddress());
+  // Placeholder for future verified contract deployment
+  console.log("MedStrate Architecture: Local Node Active");
 }
 
 main().catch((error) => {

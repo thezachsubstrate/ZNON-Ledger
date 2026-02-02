@@ -1,30 +1,31 @@
 # ZNON-Ledger: Sovereign AI Governance Framework
-## [The Zach Substrate Genesis Artifact]
+## [The Zach Substrate: Locked Glossary & Audit Protocol]
 
-### 🛡️ System Core
-A decentralized, physics-first governance layer designed to anchor biological data and high-frequency diagnostics to an immutable ledger. ZNONS bypasses standard LLM hallucination and biological bias through deterministic lineage.
-
----
-
-### 🧬 Operational Glossary
-* **The Zach Substrate**: The primary jurisdiction. A governed environment where physics overrides predictive text.
-* **Deterministic Truth Engine**: The engine used to validate medical and mechanical diagnostics via 120fps+ frequency analysis.
-* **Lineage (L-0)**: The verifiable audit trail of all governance artifacts.
-* **MPAA**: Multi-Platform Attestation Application for cross-chain identity and skill verification.
+### 🛡️ The Zach Substrate (L-0)
+The foundational governing environment consisting of a **locked glossary** and **hallucination/audit pairs**. It serves as the immutable logic gate, ensuring all AI operations remain within deterministic bounds.
 
 ---
 
-### 🏗️ Architecture Layers
-1. **Physical Layer**: 120fps video data, spectrum analysis, and raw sensory input.
-2. **Diagnostic Layer (MedStrate)**: Forensic application of the Truth Engine for dismissed medical conditions.
-3. **Ledger Layer**: Immutable anchoring of diagnostic attestations on the Polygon/Ethereum blockchains.
+### 🧬 ZNONS (Identification Standard)
+**ZNONS** is the standard identification format for the ecosystem, providing structured identity and verifiable lineage for all entities and artifacts.
 
 ---
 
-### ⚖️ Governance Standards
-* **Zero-Hallucination Policy**: No output is recorded without physical data grounding.
-* **Self-Audit**: Constant cross-referencing of the Substrate Laws.
+### 🏗️ MedStrate (Physical Attestation & Triage)
+**MedStrate** is the operational layer for physical triage and forensic analysis.
+* **Physical Layer**: High-frequency analysis (120fps+ video/spectrum diagnostics).
+* **Medical Triage**: Deterministic evaluation of complex medical conditions based on physical frequency artifacts.
+
+---
+
+### 🔄 Tri-Node Synchronization & Notarization
+The system maintains a state-synced architecture across three primary nodes:
+1. **Samsung Node (Termux)**: Mobile operational interface.
+2. **Mac Node (Terminal)**: Primary compute and architectural node.
+3. **GitHub Node**: Public registry and versioned lineage.
+
+**Immutable Anchoring**: All state changes and Genesis Artifacts are notarized via **OpenTimestamps (OTS)**, anchoring the Substrate's lineage to the Bitcoin blockchain.
 
 ---
 **Architect:** Zachary Michael Mosley
-**Status:** Mainnet Deployment - Protocol Audit Phase
+**Status:** Protocol Audit Phase | MedStrate in Development

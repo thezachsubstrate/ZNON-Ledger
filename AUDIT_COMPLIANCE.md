@@ -19,6 +19,6 @@ This document certifies that the bearer has integrated MedStrate's deterministic
 
 ### 🔗 Settlement & Verification
 Compliance is active upon successful settlement to the following on-chain ledger:
-**0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5**
+**[REDACTED_AUDIT_BREACH]**
 
 *The 9-Sigma protocol is self-verifying. Non-compliance results in logic-exclusion from diagnostic AI pipelines.*

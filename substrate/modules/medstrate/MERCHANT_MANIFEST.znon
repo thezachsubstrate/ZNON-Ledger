@@ -1,6 +1,6 @@
 {
   "jurisdiction": "MEDSTRATE_REVENUE",
-  "merchant_public_address": "0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5",
+  "merchant_public_address": "[REDACTED_AUDIT_BREACH]",
   "accepted_currency": "POL (Polygon)",
   "licensing_tiers": {
     "tier_1_patient": "1 POL (Mutual Aid Access)",

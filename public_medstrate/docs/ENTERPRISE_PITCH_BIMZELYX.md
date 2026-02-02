@@ -11,7 +11,7 @@ Insurance providers currently struggle with "Non-Responder" waste. By licensing
 cat <<EOF > substrate/modules/medstrate/MERCHANT_MANIFEST.znon
 {
   "jurisdiction": "MEDSTRATE_REVENUE",
-  "merchant_public_address": "0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5",
+  "merchant_public_address": "[REDACTED_AUDIT_BREACH]",
   "licensing_tiers": {
     "tier_1_patient": "1 POL",
     "tier_2_academic": "2,500 POL",

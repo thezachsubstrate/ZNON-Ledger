@@ -25,7 +25,7 @@ def dispatch():
                         f"associated with IL-17A responsive pathologies. We are offering licensing for "
                         f"this logic to assist in clinical implementation and AI platform integration.\n\n"
                         f"REPOSITORY: https://github.com/thezachsubstrate/Substrate-Mac-Forge\n"
-                        f"SETTLEMENT: 0xA483A6167A86e8dB66d61e2e5069B161BFD6FfE5\n\n"
+                        f"SETTLEMENT: [REDACTED_AUDIT_BREACH]\n\n"
                         f"Regards,\nLead Auditor\nMedStrate Research Institute")
         
         try:

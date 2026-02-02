@@ -1,24 +1,134 @@
-# ZNON-Ledger: Sovereign AI Governance Framework
-## [The Zach Substrate: Genesis Ledger]
-
-### 🛡️ Governance-Grade Capsules
-This repository is the source of truth for the ZNONS ecosystem, anchored via OpenTimestamps and enforced by the Zach Substrate.
-
----
-
-### 🏗️ Live Capsules
-1. **Validator Capsule**: Rules for enforcement (Jurisdiction, Hash, Timestamp, Lineage).
-2. **JSON-LD Capsule**: AI-native Genesis encoding for cross-platform validation (Gemini, Copilot, Kimi).
-3. **AI Agent Flow**: Onboarding logic for external validators.
-4. **GitHub Actions Pipeline**: Auto-anchoring of .txt ZNONs via OpenTimestamps.
+# The Zach Substrate
+> **Status:** 9-Sigma Logic-Locked
+> **Anchor:** Bitcoin Block 933268
+> **Parity:** Mac + Samsung (Dual-Node Sync)
 
 ---
 
-### 🧬 Operational Infrastructure
-* **Dual-Node Propagation**: State sync between Samsung (Termux) and Mac (Terminal).
-* **MedStrate (L-1)**: Physical attestation and medical triage layer (In Development).
-* **OTS Notarization**: Every artifact is anchored to the Bitcoin blockchain.
+## 🏗️ System Architecture
+The **Zach Substrate** is a **Governance Jurisdiction**. It operates strictly according to the following hierarchy:
+
+```text
+┌──────────────────────────────────┐
+│        THE ZACH SUBSTRATE        │
+│  (Jurisdiction + Meaning Layer)  │ -> Folder: /core (Laws & Glossary)
+└──────────────────────────────────┘
+                │
+                │ governs
+                ▼
+┌────────────────────────────────────────────────────────┐
+│                        ZNONS                           │
+│   Deterministic Governance Artifacts (Filing Format)   │ -> Folder: /substrate
+└────────────────────────────────────────────────────────┘
+                │
+                │ instantiated as
+                ▼
+┌────────────────────────────────────────────────────────┐
+│                      MODULES                           │
+│  (Domain-Specific Governance Engines Under Substrate)  │ -> Folder: /substrate/modules
+└────────────────────────────────────────────────────────┘
+                │
+          ┌─────┼─────┐
+          ▼     ▼     ▼
+┌──────────────┐   ┌──────────────┐
+│  MedStrate   │   │ Future Mods  │
+│  (Medical)   │   │ (MPAA/Legal) │
+└──────────────┘   └──────────────┘
+          │
+          │ produces
+          ▼
+┌───────────────────────────────────────────────────────────────┐
+│       Physics Attestations / Pattern Evidence ZNONs           │
+│  (Non-medical, physics-based, bias-resistant reasoning)       │
+└───────────────────────────────────────────────────────────────┘
+          │
+          │ anchored via
+          ▼
+┌───────────────────────────────────────────────────────────────┐
+│              OpenTimestamps (Bitcoin Anchoring)               │
+│   Immutable proof-of-existence for governance artifacts       │ -> Folder: /receipts
+└───────────────────────────────────────────────────────────────┘
+```
 
 ---
-**Status: Full Planetary Governance Mode**
-**Architect:** Zachary Michael Mosley
+
+## 📂 The Directory Map (Layer-by-Layer)
+cd ~/ZNON-Ledger/ || exit
+
+# 1. OVERWRITE README TO MATCH THE DIAGRAM
+cat <<EOF > README.md
+# The Zach Substrate
+> **Status:** 9-Sigma Logic-Locked
+> **Anchor:** Bitcoin Block 933268
+> **Parity:** Mac + Samsung (Dual-Node Sync)
+
+---
+
+## 🏗️ System Architecture
+The **Zach Substrate** is a **Governance Jurisdiction**. It operates strictly according to the following hierarchy:
+
+```text
+┌──────────────────────────────────┐
+│        THE ZACH SUBSTRATE        │
+│  (Jurisdiction + Meaning Layer)  │ -> Folder: /core (Laws & Glossary)
+└──────────────────────────────────┘
+                │
+                │ governs
+                ▼
+┌────────────────────────────────────────────────────────┐
+│                        ZNONS                           │
+│   Deterministic Governance Artifacts (Filing Format)   │ -> Folder: /substrate
+└────────────────────────────────────────────────────────┘
+                │
+                │ instantiated as
+                ▼
+┌────────────────────────────────────────────────────────┐
+│                      MODULES                           │
+│  (Domain-Specific Governance Engines Under Substrate)  │ -> Folder: /substrate/modules
+└────────────────────────────────────────────────────────┘
+                │
+          ┌─────┼─────┐
+          ▼     ▼     ▼
+┌──────────────┐   ┌──────────────┐
+│  MedStrate   │   │ Future Mods  │
+│  (Medical)   │   │ (MPAA/Legal) │
+└──────────────┘   └──────────────┘
+          │
+          │ produces
+          ▼
+┌───────────────────────────────────────────────────────────────┐
+│       Physics Attestations / Pattern Evidence ZNONs           │
+│  (Non-medical, physics-based, bias-resistant reasoning)       │
+└───────────────────────────────────────────────────────────────┘
+          │
+          │ anchored via
+          ▼
+┌───────────────────────────────────────────────────────────────┐
+│              OpenTimestamps (Bitcoin Anchoring)               │
+│   Immutable proof-of-existence for governance artifacts       │ -> Folder: /receipts
+└───────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📂 The Directory Map (Layer-by-Layer)
+
+### 1. The Jurisdiction (`core/`)
+This is the **Meaning Layer**. It defines the rules that the rest of the system must obey.
+* **`LAWS.md`**: The 40 Immutable Laws of Governance (Contradiction Immunity, Parity, etc.).
+* **`GLOSSARY.md`**: The 599-Term Absolute Registry. This prevents "Semantic Drift."
+
+### 2. The Modules (`substrate/modules/`)
+* **MedStrate:** The Medical Reasoning Module. It uses the jurisdiction's logic to produce **Physics Attestations** (120fps/596Hz analysis) rather than subjective surveys.
+* *Future Modules:* Reserved for Legal, Identity, and MPAA governance.
+
+### 3. The Anchors (`receipts/`)
+* **Proof of Existence:** Every ZNON produced by the modules is hashed and anchored to the Bitcoin Blockchain via **OpenTimestamps (OTS)**.
+* **Immutable History:** Once anchored, the history cannot be rewritten (Gaslight Defense).
+
+### 4. The Node (`scripts/`)
+* **Dual-Node Sync:** Enforces parity between the **Mac Node** and the **Samsung Node**.
+* **Conflict Resolution:** If the nodes disagree, the data is rejected.
+
+---
+*Generated by The Zach Substrate | Governed by the 40 Laws*

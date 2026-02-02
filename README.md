@@ -1,27 +1,30 @@
 # ZNON-Ledger: Sovereign AI Governance Framework
-## [The Zach Substrate Jurisdiction]
+## [The Zach Substrate Genesis Artifact]
 
-### 🛡️ Mission Statement
-To establish a deterministic, physics-based governance layer for AI-driven diagnostics and data attestation, bypassing centralized biological bias through immutable ledger anchoring.
-
----
-
-### 🏗️ System Architecture
-1. **The Zach Substrate**: The primary jurisdiction and governing logic.
-2. **ZNONS (Deterministic Governance Artifacts)**: The protocol layer ensuring all AI outputs are grounded in physical reality.
-3. **MedStrate Module**: Specialized diagnostic layer utilizing high-frequency analysis (120fps+) for forensic attestation.
+### 🛡️ System Core
+A decentralized, physics-first governance layer designed to anchor biological data and high-frequency diagnostics to an immutable ledger. ZNONS bypasses standard LLM hallucination and biological bias through deterministic lineage.
 
 ---
 
-### 📋 Governance Protocol
-* **Integrity Anchoring**: Every artifact is hashed (SHA-256) and anchored via the ledger.
-* **Deterministic Lineage**: Zero-tolerance policy for logic decay or unverified code deployment.
+### 🧬 Operational Glossary
+* **The Zach Substrate**: The primary jurisdiction. A governed environment where physics overrides predictive text.
+* **Deterministic Truth Engine**: The engine used to validate medical and mechanical diagnostics via 120fps+ frequency analysis.
+* **Lineage (L-0)**: The verifiable audit trail of all governance artifacts.
+* **MPAA**: Multi-Platform Attestation Application for cross-chain identity and skill verification.
 
 ---
 
-### ⚖️ Attestation Methods
-* **Physics-Readiness**: Spectrum and frequency analysis of visual data.
-* **Lineage Verification**: Peer-to-peer auditing of governance artifacts.
+### 🏗️ Architecture Layers
+1. **Physical Layer**: 120fps video data, spectrum analysis, and raw sensory input.
+2. **Diagnostic Layer (MedStrate)**: Forensic application of the Truth Engine for dismissed medical conditions.
+3. **Ledger Layer**: Immutable anchoring of diagnostic attestations on the Polygon/Ethereum blockchains.
 
 ---
-**Status: Under Architectural Audit**
+
+### ⚖️ Governance Standards
+* **Zero-Hallucination Policy**: No output is recorded without physical data grounding.
+* **Self-Audit**: Constant cross-referencing of the Substrate Laws.
+
+---
+**Architect:** Zachary Michael Mosley
+**Status:** Mainnet Deployment - Protocol Audit Phase

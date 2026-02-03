@@ -1,3 +1,11 @@
+# Paste in the Multimodal Extension Addendum section, save and exit.
+
+# 5 – Stage and commit the changes
+git add core/GLOSSARY.md
+git commit -m "Added Multimodal Extension Addendum (Terms 600–620) with new audit types"
+
+# 6 – Push the update to GitHub
+git push origin main
 # ZNON Master Glossary: The 599-Term Absolute Registry
 **Status:** 9-Sigma Logic-Locked | 43/43 Parallel Audit Verified
 **Anchor:** Bitcoin Block 933268

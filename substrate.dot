@@ -1,0 +1,8 @@
+digraph ZNON {
+  node [shape=box, style=filled, color=lightblue];
+  "Zach Substrate" -> "ZNONS" -> "Modules" -> "Evidence Receipts";
+  "Modules" -> "MedStrate";
+  "Modules" -> "Future Mods";
+  "Evidence Receipts" -> "OpenTimestamps";
+}
+

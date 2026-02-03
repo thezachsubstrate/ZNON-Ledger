@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 43/43 Audit Parity
+# ZNON Hallucination Taxonomy: 53/53 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |
@@ -45,3 +45,18 @@
 | **Mutation Collapse** | Mutation Audit | Breakdown in mutation pathways. |
 | **Sovereign Breach** | Sovereignty Audit | Violation of interpretative authority. |
 | **Propagation Saturation** | Propagation Audit | Overload reducing system stability. |
+
+## Multimodal Hallucination Extensions (Canonical)
+
+| Hallucination Subtype | Audit Layer | Description |
+|---|---|---|
+| Parallax Drift | Parallax Audit | Depth inconsistency between rendered and logical space. |
+| Frame Fragmentation | Frame Audit | Loss of temporal continuity across frames. |
+| Resonance Leak | Resonance Audit | Frequency pattern misaligned with semantic intent. |
+| Cross-Modal Attribution Error | Attribution Audit | Properties assigned to the wrong entity. |
+| Predictive Horizon Collapse | Horizon Audit | Failure of long-term temporal coherence. |
+| Gestalt Misbinding | Gestalt Audit | False perceptual grouping of primitives. |
+| Perceptual Over-Correction | Variance Audit | Legitimate signal removed as noise. |
+| Attention Field Drift | Attention Audit | Saliency targeting incorrect regions. |
+| Synthetic Dialogue Loop | Dialogue Audit | False agreement via multimodal feedback. |
+| Entropy Echo | Echo Audit | Recursive amplification of noise. |

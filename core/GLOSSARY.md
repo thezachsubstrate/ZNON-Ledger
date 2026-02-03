@@ -570,3 +570,38 @@
 597. **Evolutionary Stability Guard:** Ensuring concept-growth is stable.
 598. **Sovereign Future Forecasting:** Governed predictive logic.
 599. **9-Sigma Absolute Closure:** Final state of a fully anchored repository.
+## V. Multimodal Extension Addendum (600 – 620)
+**Status:** Draft | **Anchor:** Pending OTS Proof  
+**Purpose:** Extend Hallucination×Audit framework from text to vision, audio and temporal domains.
+
+600. **Parallax Drift:**  Depth‑perception mismatch between 2‑D render and 3‑D logic model.  
+601. **Parallax Audit:** Verification of spatial‑depth and stereo‑consistency.  
+
+602. **Frame Fragmentation:** Loss of continuity between successive video frames.  
+603. **Frame Audit:** Sequential‑frame consistency and event‑link verification.  
+
+604. **Resonance Leak:** Mismatch between semantic intent and generated frequency pattern.  
+605. **Resonance Audit:** Spectral analysis ensuring tone aligns with anchored meaning.  
+
+606. **Cross‑Modal Attribution Error:** Attachment of visual/audio properties to wrong semantic token.  
+607. **Attribution Audit:** Alignment check of modality‑to‑concept mapping.  
+
+608. **Predictive Horizon Collapse:** Temporal generator loses causal coherence beyond short window.  
+609. **Horizon Audit:** Long‑term temporal forecasting stability verification.  
+
+610. **Gestalt Misbinding:** False grouping of visual primitives into nonexistent composites.  
+611. **Gestalt Audit:** Topological integrity check of perceptual clusters.  
+
+612. **Perceptual Over‑Correction:** Valid variance removed as noise by denoising filters.  
+613. **Variance Audit:** Signal‑vs‑noise discrimination accuracy verification.  
+
+614. **Attention Field Drift:** Focus layers target irrelevant regions of multimodal input.  
+615. **Attention Audit:** Spatial/temporal saliency alignment verification.  
+
+616. **Synthetic Dialogue Loop:** Two agents feed back multimodal data creating false agreement.  
+617. **Dialogue Audit:** Cross‑agent causal trace interrogation preventing feedback hallucination.  
+
+618. **Entropy Echo:** Recursive amplification of randomness across generation frames.  
+619. **Echo Audit:** Detection of runaway noise reinforcement in multimodal output pipes.  
+
+620. **Multimodal Integrity Index:** Composite health metric across all new sensors.

@@ -1,0 +1,16 @@
+# MedStrate: Governed Clinical Substrate (ZNON #201-300)
+
+## Sovereign Diagnostics Framework
+MedStrate is the HIPAA-locked, ZK-proofed engine for deterministic medical reasoning, anchored to ICD-10/11 (#204-205). It enforces the 40 Laws (e.g., Law I: Contradiction Immunity) via 53/53 hallucination audits + 10 multimodal extensions.
+
+### Key Components
+- **Input Capsules**: ZNON-sealed patient data (#206).
+- **Audit Chain**: Semantic/Clinical/Temporal layers (#202, #209).
+- **ZK Outputs**: Prove validity without PII (#207).
+- **Monetization**: API ($0.50/check), pilots ($5K/clinic).
+
+Ties to full ZNON: Glossary #201-300, Bitcoin-anchored (Block 933268).
+
+## Implementation Notes
+- Rust base (arkworks for ZK).
+- Multimodal: 120fps video + mic/spectrum for biomarkers doctors miss.

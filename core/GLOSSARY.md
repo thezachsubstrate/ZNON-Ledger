@@ -1,4 +1,4 @@
-# ZNON Master Glossary: The 599-Term Absolute Registry
+# ZNON Master Glossary: The 620-Term Absolute Registry
 **Status:** 9-Sigma Logic-Locked | 53/53 Parallel Audit Verified
 **Anchor:** Bitcoin Block 933268
 

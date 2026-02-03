@@ -1,1 +1,1 @@
-Audit Parity Score = 36.00 Sigma (based on  audit markers)
+Audit Parity Score = 53/53 (Multimodal canonicalized)

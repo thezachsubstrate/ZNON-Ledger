@@ -1,2 +1,1 @@
-Audit Parity Score = 95/95
-Audit Layers Active = 15 Total (including 5 New Advanced Layers)
+Audit Parity Score = 95/95 (Multimodal canonicalized)

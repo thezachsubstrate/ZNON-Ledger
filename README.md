@@ -1,5 +1,5 @@
 # 📘 THE ZNON SOVEREIGN SUBSTRATE (v2.0)
-### Status: **9‑Sigma Logic‑Locked** | Audit Parity: **0/0 Verified** ###
+### Status: **9-Sigma Logic-Locked** | Audit Parity: **180/180 Verified** | Registry: **835-Term Absolute Registry**
 ### Anchor: Bitcoin Block 933268 (Base) | Jurisdiction: Sovereign Meaning Layer
 
 ---
@@ -31,12 +31,12 @@ The ZNON Substrate is a **Governance Jurisdiction**, not an application. It oper
 ┌──────────────┐   ┌──────────────┐
 │  MedStrate   │   │ Future Mods  │
 │  (Medical)   │   │ (AI-Audit)   │
-└──────────────┘   └──────────────┘
+└──────────────┘   ┌──────────────┐
           │
           │ produces
           ▼
 ┌───────────────────────────────────────────────────────────────┐
-│       Physics Attestations / 120-Point Audit Reports          │
+│       Physics Attestations / 180-Point Audit Reports          │
 │   (Bias-resistant, multi-scale, and physics-based logic)      │
 └───────────────────────────────────────────────────────────────┘
           │
@@ -60,7 +60,7 @@ We do not rely on "guidelines." We rely on **Immutable Law** stored in `core/LAW
 
 ---
 
-## 🔐 The 775-Term Absolute Registry
+## 🔐 The 835-Term Absolute Registry
 All operations are bound by the **Absolute Registry** in `core/GLOSSARY.md`.
 
 * **Semantic Sovereignty:** Prevents "Semantic Drift"—the dilution of definitions by AI models.
@@ -70,13 +70,13 @@ All operations are bound by the **Absolute Registry** in `core/GLOSSARY.md`.
 ---
 
 ## 👁️ 180-Point Hallucination Taxonomy & Audit Parity
-To achieve **9‑Sigma Truth**, every output is subjected to a 120-point audit across 15 specialized layers.
+To achieve **9-Sigma Truth**, every output is subjected to a 180-point audit across 15 specialized layers.
 
-1.  **Structural/Topological Audit:** Verifies architectural integrity and latent-space geometry.
-2.  **Sovereignty Intent Audit:** Ensures literal compliance does not violate sovereign intent.
-3.  **Cross-Domain Invariant Audit:** Prevents logic leaks between physics, legal, and clinical domains.
-4.  **Cryptographic-State Audit:** Monitors ledger-anchored invariants and hash-boundary integrity.
-5.  **Multi-Agent Integration Audit:** Detects echo-reinforcement or role-inversion between AI nodes.
+1. **Structural/Topological Audit:** Verifies architectural integrity and latent-space geometry.
+2. **Sovereignty Intent Audit:** Ensures literal compliance does not violate sovereign intent.
+3. **Cross-Domain Invariant Audit:** Prevents logic leaks between physics, legal, and clinical domains.
+4. **Cryptographic-State Audit:** Monitors ledger-anchored invariants and hash-boundary integrity.
+5. **Multi-Agent Integration Audit:** Detects echo-reinforcement or role-inversion between AI nodes.
 
 ---
 

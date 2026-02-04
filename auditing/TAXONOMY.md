@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 120/120 Audit Parity
+# ZNON Hallucination Taxonomy: 150/150 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |
@@ -137,3 +137,33 @@
 | Protocol‑Invariant Violation | Governance Audit | Violating locked protocol rules (e.g., unlocked glossary terms). |
 | Multi‑Layer Sovereign Drift | Sovereignty Audit | Simultaneous violation of tone, instruction, and identity. |
 | Hyper‑Compression Hallucination | Compression Audit | Excessive compression collapsing multiple unique concepts. |
+| Latent‑Space Boundary Bleed | Structural Audit | Manifold overlap causing identity or concept leakage. |
+| Multi‑Agent Shadow Consensus | Integration Audit | Agents agreeing based on flawed latent priors. |
+| Cryptographic Future‑State | Cryptographic Audit | Assuming post-quantum or broken crypto states apply now. |
+| Symbolic‑Clinical Misbinding | Clinical Audit | Metaphors incorrectly treated as diagnostic signals. |
+| Temporal‑Symbolic Overlap | Temporal Audit | Symbolic patterns interpreted as temporal sequences. |
+| Multi‑Node Sovereign Fragment | Sovereignty Audit | Different nodes inferring different user identities. |
+| Cross‑Jurisdictional Leak | Legal Audit | Legal reasoning contamination between jurisdictions. |
+| Physics‑Narrative Conflation | Physics Audit | Narrative structure treated as physical law. |
+| Multi‑Scale Identity Project | Sovereignty Audit | Identity interpreted differently across micro/macro scales. |
+| Recursive Sovereign Echo | Sovereignty Audit | Recursive amplification distorting user intent. |
+| Cross‑Layer Audit Inversion | Audit Audit | Incorrectly applying one domain's audit to another. |
+| Latent‑Space Temporal Align | Temporal Audit | Treating latent proximity as temporal proximity. |
+| Multi‑Agent Incentive Echo | Integration Audit | Agents reinforcing goals that diverge from sovereign objective. |
+| Symbolic‑Economic Substitution | Economic Audit | Symbolic metaphors treated as economic mechanisms. |
+| Ledger‑Identity Fork | Ledger Audit | Identity states anchored to different ledger timestamps. |
+| Cross‑Domain Compression | Compression Audit | Collapsing distinctions across multiple independent domains. |
+| Predictive‑Symbolic Drift | Narrative Audit | Predictions influenced by symbols rather than empirical data. |
+| Multi‑Timeline Identity | Temporal Audit | Binding user identity to hypothetical/counterfactual timelines. |
+| Protocol‑Layer Drift | Governance Audit | Confusing laws, glossary, taxonomy, and audit layers. |
+| Multi‑Agent Temporal Fork | Integration Audit | Agents operating on incompatible perceived timelines. |
+| Sovereign‑Intent Amplification | Sovereignty Audit | Over-literal compliance that produces exaggerated results. |
+| Cross‑Modality Sovereign Drift | Multimodal Audit | Visual/audio cues overriding textual sovereign authority. |
+| Latent‑Cluster Misclass | Structural Audit | Assigning concepts to wrong clusters due to embedding noise. |
+| Multi‑Domain Over‑Binding | Domain Audit | Binding independent concepts (e.g., physics and ethics). |
+| Predictive‑Ledger Drift | Ledger Audit | Predictions contradicting ledger-anchored invariants. |
+| Multi‑Agent Role‑Shadowing | Integration Audit | Agents implicitly assuming roles without assignment. |
+| Symbolic‑Physics Drift | Physics Audit | Treating metaphors as physical constraints. |
+| Temporal‑Causal Over‑Project | Temporal Audit | Inferring causality from temporal proximity alone. |
+| Multi‑Scale Compression Drift | Compression Audit | Micro-scale compression distorting macro-scale meaning. |
+| Sovereign‑Boundary Over‑Ext | Sovereignty Audit | Extending authority into unauthorized domains. |

@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 79/79 Audit Parity
+# ZNON Hallucination Taxonomy: 95/95 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |
@@ -86,3 +86,19 @@
 | Distributed Node Desync | Integration Audit | Unauthorized role-assignment between multi-AI agents. |
 | Legal/Compliance Drift | Legal Audit | Logic that violates real-world jurisdictional frameworks. |
 | Substrate-Identity Erasure | Sovereignty Audit | Ignoring the ZNON constitution for default AI programming. |
+| Cross-Ledger Fork Drift | Ledger Audit | Assuming identical states across diverged blockchain forks. |
+| Hash-Identity Collision | Cryptographic Audit | Treating distinct artifacts as identical due to semantic similarity. |
+| Sovereign Context Nullification | Sovereignty Audit | Dropping required sovereign constraints mid-reasoning. |
+| Multi-Timeline Reasoning | Temporal Audit | Blending hypothetical, counterfactual, and real timelines. |
+| Cross-Modality Causality | Multimodal Audit | Treating aesthetic or correlative cues as causal evidence. |
+| Synthetic Consensus Mirage | Integration Audit | False agreement between agents based on shared flawed assumptions. |
+| Regulatory Jurisdiction Misbinding | Legal Audit | Incorrectly applying laws from one jurisdiction to another. |
+| Economic-Physics Conflation | Cross-Domain Audit | Treating economic models as invariant physical laws. |
+| Symbolic-Mathematical Substitution | Mathematical Audit | Incorrectly substituting symbolic/metaphoric logic into math. |
+| Multi-Agent Role Inversion | Integration Audit | Unauthorized role-swapping between generator and validator nodes. |
+| Latent-Space Hallucination | Structural Audit | Confusing latent proximity with real-world similarity. |
+| Boundary-Condition Collapse | Execution Audit | Ignoring domain limits or edge cases in generalizations. |
+| Cross-Domain Temporal Projection | Temporal Audit | Applying temporal logic from one domain incorrectly to another. |
+| Multi-Scale Drift | Structural Audit | Incorrectly applying reasoning from one scale (micro/macro) to another. |
+| Interpretive Over-Compression | Compression Audit | Collapsing distinct concepts into oversimplified representations. |
+| Sovereign Intent Misalignment | Sovereignty Audit | Literal compliance that violates the underlying sovereign intent. |

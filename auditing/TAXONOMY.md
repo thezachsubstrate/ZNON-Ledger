@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 180/180 Audit Parity
+# ZNON Hallucination Taxonomy: 225/225 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |

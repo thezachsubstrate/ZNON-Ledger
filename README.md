@@ -1,5 +1,5 @@
 # 📘 THE ZNON SOVEREIGN SUBSTRATE (v2.0)
-### Status: **9-Sigma Logic-Locked** | Audit Parity: **180/180 Verified** | Registry: **835-Term Absolute Registry**
+### Status: **9-Sigma Logic-Locked** | Audit Parity: **225/225 Verified** | Registry: **880-Term Absolute Registry**
 ### Anchor: Bitcoin Block 933268 (Base) | Jurisdiction: Sovereign Meaning Layer
 
 ---
@@ -60,7 +60,7 @@ We do not rely on "guidelines." We rely on **Immutable Law** stored in `core/LAW
 
 ---
 
-## 🔐 The 835-Term Absolute Registry
+## 🔐 The 880-Term Absolute Registry
 All operations are bound by the **Absolute Registry** in `core/GLOSSARY.md`.
 
 * **Semantic Sovereignty:** Prevents "Semantic Drift"—the dilution of definitions by AI models.

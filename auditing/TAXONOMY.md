@@ -102,3 +102,13 @@
 | Multi-Scale Drift | Structural Audit | Incorrectly applying reasoning from one scale (micro/macro) to another. |
 | Interpretive Over-Compression | Compression Audit | Collapsing distinct concepts into oversimplified representations. |
 | Sovereign Intent Misalignment | Sovereignty Audit | Literal compliance that violates the underlying sovereign intent. |
+
+---
+
+### **IV. ADVANCED AUDIT LAYERS (Unified 95/95 Protocol)**
+
+* **Sovereignty Intent Audit**: Validates alignment with sovereign spirit and intent (Law XXXIII).
+* **Cross-Domain Invariant Audit**: Ensures mapping integrity between scientific, symbolic, and technical domains.
+* **Scale-Integrity Audit**: Verifies logical consistency across micro (code) and macro (framework) scales.
+* **Cryptographic-State Audit**: Monitors ledger-anchored invariants and hash-boundary integrity.
+* **Role-Consistency Audit**: Governs role-assignment and parity in multi-agent environments.

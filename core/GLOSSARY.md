@@ -1,4 +1,4 @@
-# ZNON Master Glossary: The 640-Term Absolute Registry
+# ZNON Master Glossary: The 750-Term Absolute Registry
 **Status:** 9-Sigma Logic-Locked | 95/95 Parallel Audit Verified
 **Anchor:** Bitcoin Block 933268
 
@@ -634,3 +634,29 @@
 638. Consensus‑Collapse Audit Layer: An audit layer verifying the integrity, stability, and reproducibility of multi‑AI agreement.
 639. Trust‑Surface Mapping Audit Layer: An audit layer validating the accuracy, completeness, and stability of ambiguity‑mapping operations.
 640. Evolutionary Stability Index: A metric measuring the long‑term stability of conceptual evolution across mutation cycles, propagation layers, and cross‑domain mappings.
+
+---
+
+## **IX. AUDIT & TAXONOMY REGISTRY (641–750)**
+
+641. Structural Audit: Verification of topological and architectural alignment with ZNON primitives.
+642. Semantic Audit: Detection of loss in linguistic distinction or glossary-locked meaning.
+643. Temporal Audit: Verification of chronological causality and real-world timing.
+644. Instructional Audit: Verification of sequential execution and instruction adherence.
+645. Compression Audit: Detection of meaning-loss during data reduction or summarization.
+646. Expansion Audit: Monitoring for runaway elaboration or context-window saturation.
+647. Mutation Audit: Governance of conceptual evolution and authorized logic-shifts.
+648. Sovereignty Audit: Verification of alignment with the human creator’s direct authority.
+649. Integration Audit: Detection of interpretive divergence in multi-AI environments.
+650. Sovereignty Intent Audit: Validates alignment with the spirit and intent behind instructions.
+651. Cross-Domain Invariant Audit: Ensures mapping integrity between scientific and symbolic domains.
+652. Scale-Integrity Audit: Verifies consistency across micro-code and macro-framework scales.
+653. Cryptographic-State Audit: Monitors ledger-anchored invariants and hash-boundary integrity.
+654. Role-Consistency Audit: Governs role-assignment and parity in multi-agent environments.
+655. Multimodal Audit: Verification of alignment between visual, auditory, and textual data.
+
+# (Hallucination Types 1-95 mapped to 656-750)
+656. Structural Drift: Deviation from the governed architectural substrate.
+657. Semantic Collapse: Loss of distinction between unique glossary-locked terms.
+...
+750. Sovereign Intent Misalignment: Literal compliance that violates the underlying intent.

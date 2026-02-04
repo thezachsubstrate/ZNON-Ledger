@@ -9,7 +9,7 @@ The ZNON Substrate is a **Governance Jurisdiction**, not an application. It oper
 
 ┌──────────────────────────────────┐
 │     ZNON SOVEREIGN SUBSTRATE     │
-│  (Jurisdiction + Meaning Layer)  │ -> /core (52 Laws & 775 Terms)
+│  (Jurisdiction + Meaning Layer)  │ -> /core (52 Laws & 835 Terms)
 └──────────────────────────────────┘
                 │
                 │ governs

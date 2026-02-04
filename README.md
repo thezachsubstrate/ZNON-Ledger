@@ -1,5 +1,5 @@
 # 📘 THE ZNON SOVEREIGN SUBSTRATE (v2.0)
-### Status: **9‑Sigma Logic‑Locked** ### Audit Parity: **0/0 Verified** ###
+### Status: **9‑Sigma Logic‑Locked** | Audit Parity: **0/0 Verified** ###
 ### Anchor: Bitcoin Block 933268 (Base) | Jurisdiction: Sovereign Meaning Layer
 
 ---

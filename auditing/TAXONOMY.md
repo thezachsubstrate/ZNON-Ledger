@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 53/53 Audit Parity
+# ZNON Hallucination Taxonomy: 69/69 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |
@@ -60,3 +60,19 @@
 | Attention Field Drift | Attention Audit | Saliency targeting incorrect regions. |
 | Synthetic Dialogue Loop | Dialogue Audit | False agreement via multimodal feedback. |
 | Entropy Echo | Echo Audit | Recursive amplification of noise. |
+| Scientific Drift | Scientific Audit | Deviation from governed evidence hierarchies or physical laws. |
+| Mathematical Drift | Mathematical Audit | Violation of mathematical structures, invariants, or rules. |
+| Geometric Misalignment | Structural Audit | Distortion of governed shape-invariants or continuity. |
+| Topological Collapse | Structural Audit | Loss of governed connectivity or dimensional integrity. |
+| Physics-Invariant Violation | Physics Audit | Contradiction of physical laws (causality, conservation). |
+| Causality Breach | Temporal Audit | Reversed or broken cause-before-effect ordering. |
+| Medical Interpretive Drift | Clinical Audit | Deviation from diagnostic pathways or standard-of-care. |
+| Clinical Pathway Misbinding | Clinical Audit | Invalid linking of symptoms, diagnoses, or treatments. |
+| AI-Integration Drift | Integration Audit | Divergence between models on the same term or artifact. |
+| Cross-Model Parity Failure | Integration Audit | Failure to maintain interpretive parity across agents. |
+| Consensus-Collapse | Integration Audit | Breakdown of multi-AI agreement across cycles. |
+| Mutation-Drift Interference | Mutation Audit | Evolution introducing semantic drift or glossary violations. |
+| Trust-Surface Mapping Drift | Trust Audit | Incorrect or misaligned ambiguity-mapping. |
+| Multimodal-to-Text Drift | Multimodal Audit | Visual/auditory reasoning contradicting textual meaning. |
+| Cross-Domain Mapping Error | Cross-Domain Audit | Invariant violations between scientific/symbolic domains. |
+| Evolutionary Instability | Mutation Audit | Unstable reasoning across iterations or long-term propagation. |

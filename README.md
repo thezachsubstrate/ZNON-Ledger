@@ -60,8 +60,8 @@ We do not rely on "guidelines." We rely on **Immutable Law** stored in `core/LAW
 * **Law III (Semantic Locking):** A term means *exactly* what the Registry says it means.
 * **Law IV (Audit Parity):** Every claim requires a dedicated sensor.
 
-## 🔐 The Glossary Lock (599-Term Registry)
-All operations are bound by the **599-Term Absolute Registry** in `core/GLOSSARY.md`.
+## 🔐 The Glossary Lock (620-Term Registry)
+All operations are bound by the **620-Term Absolute Registry** in `core/GLOSSARY.md`.
 * **Semantic Sovereignty:** This prevents "Semantic Drift"—the process where AI models dilute definitions over time.
 * **Locked Terms:** Includes strict definitions for *ZNON*, *Substrate*, *9-Sigma*, and *MedStrate*.
 

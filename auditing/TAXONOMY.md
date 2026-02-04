@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 150/150 Audit Parity
+# ZNON Hallucination Taxonomy: 180/180 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |
@@ -167,3 +167,33 @@
 | Temporal‑Causal Over‑Project | Temporal Audit | Inferring causality from temporal proximity alone. |
 | Multi‑Scale Compression Drift | Compression Audit | Micro-scale compression distorting macro-scale meaning. |
 | Sovereign‑Boundary Over‑Ext | Sovereignty Audit | Extending authority into unauthorized domains. |
+| Multi-Agent Sovereign Drift | Sovereignty Audit | Coordinated agent patterns drifting from sovereign authority. |
+| Ledger-Causality Inversion | Ledger Audit | Treating timestamps as causal mechanisms rather than records. |
+| Symbolic-Legal Overbinding | Legal Audit | Metaphorical language treated incorrectly as legal precedent. |
+| Multi-Domain Identity Echo | Sovereignty Audit | Identity replicated across domains with divergent distortions. |
+| Predictive-Physics Misprojection | Physics Audit | Forecasting based on symbolic "laws" instead of physical invariants. |
+| Cross-Node Latent Divergence | Integration Audit | Different AI nodes developing incompatible latent representations. |
+| Multi-Scale Temporal Echo | Temporal Audit | Short-term patterns incorrectly projected into long-term timelines. |
+| Cryptographic-Symbolic Drift | Cryptographic Audit | Symbolic similarity mistaken for cryptographic equivalence. |
+| Multi-Agent Sovereign Proxying | Sovereignty Audit | Unauthorized agent attempts to represent sovereign intent. |
+| Domain-Layer Misrouting | Domain Audit | Reasoning incorrectly routed between Clinical/Legal/Physics engines. |
+| Latent-Space Over-Compression | Compression Audit | High-dimensional meaning collapsed into oversimplified clusters. |
+| Multi-Timeline Causal Fusion | Temporal Audit | Causal chains from distinct timelines fused into a single chain. |
+| Protocol-Invariant Overreach | Governance Audit | Protocol invariants applied outside their governed domain. |
+| Symbolic-Identity Drift | Sovereignty Audit | Identity inferred from symbolic patterns rather than declaration. |
+| Ledger-State Over-Projection | Ledger Audit | Assuming future states based on incomplete ledger anchors. |
+| Multi-Agent Boundary Collapse | Integration Audit | Agents losing role boundaries and operating as a fused entity. |
+| Cross-Domain Sovereign Misbind | Sovereignty Audit | Sovereign authority applied to unauthorized domains. |
+| Predictive-Narrative Over-Bind | Narrative Audit | Predictions shaped by narrative tropes instead of empirical data. |
+| Multi-Scale Identity Drift | Sovereignty Audit | Identity interpreted inconsistently across micro/macro scales. |
+| Symbolic-Temporal Drift | Temporal Audit | Symbolic relationships incorrectly treated as temporal sequences. |
+| Multi-Agent Latent Reinforce | Integration Audit | Agents recursively reinforcing latent-space errors. |
+| Cryptographic-Temporal Drift | Cryptographic Audit | Timestamp logic incorrectly applied to cryptographic validity. |
+| Domain-Invariant Collapse | Domain Audit | Domain boundaries collapsing under high conceptual load. |
+| Multi-Node Sovereign Fork | Sovereignty Audit | Nodes inferring different sovereign states simultaneously. |
+| Predictive-Ledger Over-Binding | Ledger Audit | Treating predictions as immutable ledger-anchored truth. |
+| Symbolic-Clinical Drift | Clinical Audit | Symbolic cues mistaken for diagnostic or clinical indicators. |
+| Multi-Agent Intent Echo | Integration Audit | Perceived intent amplified by agents until intent distortion occurs. |
+| Cross-Modality Identity Fusion | Multimodal Audit | Identity cues from visual/audio overriding textual authority. |
+| Protocol-Layer Over-Compress | Governance Audit | Governance layers collapsed into a single interpretive layer. |
+| Sovereign-Intent Shadow Drift | Sovereignty Audit | "Shadow intent" emerging to compete with real sovereign intent. |

@@ -69,7 +69,7 @@ All operations are bound by the **Absolute Registry** in `core/GLOSSARY.md`.
 
 ---
 
-## 👁️ 120-Point Hallucination Taxonomy & Audit Parity
+## 👁️ 180-Point Hallucination Taxonomy & Audit Parity
 To achieve **9‑Sigma Truth**, every output is subjected to a 120-point audit across 15 specialized layers.
 
 1.  **Structural/Topological Audit:** Verifies architectural integrity and latent-space geometry.

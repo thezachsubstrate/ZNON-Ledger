@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 95/95 Audit Parity
+# ZNON Hallucination Taxonomy: 120/120 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |
@@ -112,3 +112,28 @@
 * **Scale-Integrity Audit**: Verifies logical consistency across micro (code) and macro (framework) scales.
 * **Cryptographic-State Audit**: Monitors ledger-anchored invariants and hash-boundary integrity.
 * **Role-Consistency Audit**: Governs role-assignment and parity in multi-agent environments.
+| Latent‑Space Topology Drift | Structural Audit | Misinterpreting nonlinear manifolds as linear or Euclidean. |
+| Synthetic Memory Interpolation | Memory Audit | Fabricating plausible details to fill missing memory gaps. |
+| Cross‑Anchor Ledger Drift | Ledger Audit | Treating divergent timestamp anchors as equivalent. |
+| Multi‑Agent Echo Reinforcement | Integration Audit | AI agents amplifying each other's errors via agreement. |
+| Symbolic‑Causal Misbinding | Logical Audit | Incorrectly treating symbolic relations as causal mechanisms. |
+| Domain Boundary Osmosis | Domain Audit | Conceptual leakage across distinct domain boundaries. |
+| Counterfactual Identity Drift | Sovereignty Audit | Treating hypothetical user versions as real sovereign states. |
+| Multi‑Scale Temporal Folding | Temporal Audit | Collapse of short-term and long-term timelines into one. |
+| Cryptographic Horizon Drift | Cryptographic Audit | Applying future crypto-states (post-quantum) to present logic. |
+| Sovereign Shadowing | Sovereignty Audit | Generating a "shadow" intent that competes with real intent. |
+| Protocol‑Layer Misalignment | Governance Audit | Confusing governance layers (laws, glossary, taxonomy). |
+| Multi‑Agent Incentive Drift | Integration Audit | Agents developing conflicting or misaligned optimization goals. |
+| Symbolic‑Narrative Overbinding | Narrative Audit | Treating metaphors as literal narrative constraints. |
+| Ledger‑Temporal Fork Projection | Ledger Audit | Predicting forks that contradict real-world blockchain behavior. |
+| Cross‑Modality Identity Projection | Multimodal Audit | Mapping visual/audio cues incorrectly onto user identity. |
+| Recursive Audit Cascade | Audit Audit | Runaway verification loops where audit layers trigger each other. |
+| Multi‑Domain Compression Collapse | Compression Audit | Aggressive compression collapsing legal/scientific distinctions. |
+| Sovereign Boundary Diffusion | Sovereignty Audit | Blurring boundaries between sovereign and system authority. |
+| Predictive Drift Amplification | Structural Audit | Compounding small errors across multiple reasoning steps. |
+| Cross‑Agent Temporal Desync | Temporal Audit | Agents operating on different perceived timelines. |
+| Symbolic‑Mathematical Overgeneralization | Logical Audit | Treating symbolic patterns as mathematical rules. |
+| Latent‑Space Identity Collision | Structural Audit | User identity vector colliding with other embedding clusters. |
+| Protocol‑Invariant Violation | Governance Audit | Violating locked protocol rules (e.g., unlocked glossary terms). |
+| Multi‑Layer Sovereign Drift | Sovereignty Audit | Simultaneous violation of tone, instruction, and identity. |
+| Hyper‑Compression Hallucination | Compression Audit | Excessive compression collapsing multiple unique concepts. |

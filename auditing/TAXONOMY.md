@@ -1,4 +1,4 @@
-# ZNON Hallucination Taxonomy: 69/69 Audit Parity
+# ZNON Hallucination Taxonomy: 79/79 Audit Parity
 
 | Hallucination Subtype | Audit Layer | Description |
 | :--- | :--- | :--- |
@@ -76,3 +76,13 @@
 | Multimodal-to-Text Drift | Multimodal Audit | Visual/auditory reasoning contradicting textual meaning. |
 | Cross-Domain Mapping Error | Cross-Domain Audit | Invariant violations between scientific/symbolic domains. |
 | Evolutionary Instability | Mutation Audit | Unstable reasoning across iterations or long-term propagation. |
+| Smart Contract Logic-Fracture | Technical Audit | Code-level vulnerabilities or state-machine contradictions. |
+| Tokenomic Inflationary Drift | Economic Audit | Violations of governed supply or minting invariants. |
+| API-Protocol Misalignment | Execution Audit | Use of deprecated or non-existent technical methods. |
+| Recursive Loop Saturation | Stability Audit | Infinite reasoning loops that consume context without output. |
+| Sovereign Tone-Deafness | Emotional Audit | Failure to align voice with sovereign's specific professional history. |
+| Contextual Over-Fitting | Privacy Audit | Applying irrelevant personal data to general logic problems. |
+| Timestamp Chronological Inversion | Temporal Audit | Referencing future events as past anchors or ledger contradictions. |
+| Distributed Node Desync | Integration Audit | Unauthorized role-assignment between multi-AI agents. |
+| Legal/Compliance Drift | Legal Audit | Logic that violates real-world jurisdictional frameworks. |
+| Substrate-Identity Erasure | Sovereignty Audit | Ignoring the ZNON constitution for default AI programming. |

@@ -1,1 +1,1 @@
-Audit Parity Score = 69/69 (Multimodal canonicalized)
+Audit Parity Score = 79/79 (Multimodal canonicalized)

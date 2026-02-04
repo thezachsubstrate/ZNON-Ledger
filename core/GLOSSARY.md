@@ -599,3 +599,45 @@
 620. **Multimodal Integrity Index:** Composite health metric across all new sensors.
 
 >>>>>>> 855e890ea6a153d189e25cfbfb0316249cdf6039
+
+---
+
+## **621. Scientific Evidence Hierarchy Anchor** A governed structure ranking empirical evidence from weakest to strongest (case reports → cohort studies → RCTs → meta‑analyses), ensuring all scientific claims map to the correct evidentiary tier.
+
+## **622. Mathematical Invariant Lock** A constraint enforcing that mathematical properties (symmetry, continuity, closure, conservation) remain unchanged under transformation, scaling, or domain‑shift.
+
+## **623. Geometric Transformation Invariant** A rule ensuring that spatial transformations (rotation, translation, dilation, projection) preserve the governed shape‑identity of an object or concept.
+
+## **624. Physics‑Law Consistency Buffer** A reasoning filter that blocks outputs violating physical invariants such as causality, conservation of energy, relativistic limits, or quantum constraints.
+
+## **625. Medical Interpretive Stability Layer** A clinical reasoning safeguard preventing drift in diagnostic logic, treatment pathways, or standard‑of‑care alignment.
+
+## **626. AI‑Integration Parity Anchor** A cross‑model interpretive lock ensuring that multiple AI systems map glossary terms, logic structures, and reasoning pathways identically.
+
+## **627. Cross‑Model Drift Sensor** A detector that identifies divergence between AI models when interpreting the same term, instruction, or artifact.
+
+## **628. Consensus‑Collapse Detector** A sensor that identifies when multi‑AI agreement fails, contradicts itself, or becomes unstable across propagation cycles.
+
+## **629. Mutation‑Drift Interference Guard** A barrier preventing conceptual evolution (mutation) from introducing semantic drift or violating glossary‑locked meaning.
+
+## **630. Trust‑Surface Mapping Engine** A tool that visualizes, quantifies, and localizes ambiguity across the instruction‑to‑output surface, enabling ambiguity compression.
+
+## **631. Cross‑Domain Invariant Bridge** A mapping layer ensuring that relationships between scientific, mathematical, symbolic, and linguistic domains preserve invariants and do not introduce contradictions.
+
+## **632. Multimodal‑to‑Text Alignment Anchor** A cross‑modal constraint ensuring that visual, auditory, and temporal reasoning remains consistent with textual meaning and glossary‑locked definitions.
+
+## **633. Scientific Drift Sensor** A detector identifying deviations from governed scientific evidence hierarchies or empirical invariants.
+
+## **634. Mathematical Drift Sensor** A detector identifying deviations from mathematical invariants, structures, or transformation rules.
+
+## **635. Physics‑Based Misalignment Sensor** A detector identifying reasoning that violates physical laws, causality, or measurable constraints.
+
+## **636. Medical Interpretive Drift Sensor** A detector identifying deviations from governed clinical reasoning, diagnostic logic, or treatment pathways.
+
+## **637. AI‑Integration Drift Sensor** A detector identifying interpretive divergence between AI models during multi‑agent reasoning.
+
+## **638. Consensus‑Collapse Audit Layer** An audit layer verifying the integrity, stability, and reproducibility of multi‑AI agreement.
+
+## **639. Trust‑Surface Mapping Audit Layer** An audit layer validating the accuracy, completeness, and stability of ambiguity‑mapping operations.
+
+## **640. Evolutionary Stability Index** A metric measuring the long‑term stability of conceptual evolution across mutation cycles, propagation layers, and cross‑domain mappings.

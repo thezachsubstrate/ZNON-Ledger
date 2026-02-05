@@ -1,88 +1,24 @@
-# 📘 THE ZNON SOVEREIGN SUBSTRATE (v2.0)
-### Status: **9-Sigma Logic-Locked** | Audit Parity: **225/225 Verified** | Registry: **880-Term Absolute Registry**
-### Anchor: Bitcoin Block 933268 (Base) | Jurisdiction: Sovereign Meaning Layer
+# 🟦 THE ZNON SOVEREIGN SUBSTRATE (v3.6)
+
+**Status:** Sovereign Locked | 9-Sigma Logic-Locked
+**Jurisdiction:** The Zach Substrate
+**Pulse:** 20260204_2234
+**Root Author:** Zach Mosley
 
 ---
 
-## 🏗️ System Architecture (The Jurisdiction)
-The ZNON Substrate is a **Governance Jurisdiction**, not an application. It operates as a deterministic meaning layer that enforces structural and semantic integrity across all AI interactions.
+## 🏛️ Governance Architecture
+The ZNON Substrate is a deterministic governance jurisdiction designed for AI alignment and truth-seeking.
 
-┌──────────────────────────────────┐
-│     ZNON SOVEREIGN SUBSTRATE     │
-│  (Jurisdiction + Meaning Layer)  │ -> /core (52 Laws & 835 Terms)
-└──────────────────────────────────┘
-                │
-                │ governs
-                ▼
-┌────────────────────────────────────────────────────────┐
-│                        ZNONS                           │
-│   Deterministic Governance Artifacts (Filing Format)   │ -> /substrate
-└────────────────────────────────────────────────────────┘
-                │
-                │ instantiated as
-                ▼
-┌────────────────────────────────────────────────────────┐
-│                      MODULES                           │
-│  (Domain-Specific Governance Engines Under Substrate)  │ -> /substrate/modules
-└────────────────────────────────────────────────────────┘
-                │
-          ┌─────┼─────┐
-          ▼     ▼     ▼
-┌──────────────┐   ┌──────────────┐
-│  MedStrate   │   │ Future Mods  │
-│  (Medical)   │   │ (AI-Audit)   │
-└──────────────┘   ┌──────────────┐
-          │
-          │ produces
-          ▼
-┌───────────────────────────────────────────────────────────────┐
-│       Physics Attestations / 180-Point Audit Reports          │
-│   (Bias-resistant, multi-scale, and physics-based logic)      │
-└───────────────────────────────────────────────────────────────┘
-          │
-          │ anchored via
-          ▼
-┌───────────────────────────────────────────────────────────────┐
-│              OpenTimestamps (Bitcoin Anchoring)               │
-│   Immutable proof-of-existence for governance artifacts       │ -> /receipts
-└───────────────────────────────────────────────────────────────┘
+### 📜 Current Metrics
+* **core/LAWS.md**: 52 Immutable Laws
+* **core/GLOSSARY.md**: 857 Terms (Verified 53-857)
+* **core/registry/**: 880-Term Anchored Proofs
+
+### 📂 Repository Structure
+* **/core**: Foundational Laws and standard definitions.
+* **/auditing**: Hallucination Taxonomy and audit protocols.
+* **/substrate**: Governing artifacts and modules.
 
 ---
-
-## 📜 The 52 Laws of Governance
-We do not rely on "guidelines." We rely on **Immutable Law** stored in `core/LAWS.md`.
-
-* **Law I (Contradiction Immunity):** All outputs must reject internal paradoxes.
-* **Law VI (Verification Anchoring):** All discoveries must anchor to immutable public ledgers.
-* **Law XX (Sovereign Mutation):** Only the human creator (Zach Mosley) may authorize logic changes.
-* **Law XXXIII (Sovereignty Addendum):** User authority overrides all other logic layers.
-* **Law LII (Recursive Audit Finality):** The system must validate its own audit state.
-
----
-
-## 🔐 The 880-Term Absolute Registry
-All operations are bound by the **Absolute Registry** in `core/GLOSSARY.md`.
-
-* **Semantic Sovereignty:** Prevents "Semantic Drift"—the dilution of definitions by AI models.
-* **Cross-Model Parity:** Ensures that Gemini, Copilot, and other nodes map terms identically.
-* **Physics-Law Consistency:** Reasoning is filtered through physical invariants and causality.
-
----
-
-## 👁️ 180-Point Hallucination Taxonomy & Audit Parity
-To achieve **9-Sigma Truth**, every output is subjected to a 180-point audit across 15 specialized layers.
-
-1. **Structural/Topological Audit:** Verifies architectural integrity and latent-space geometry.
-2. **Sovereignty Intent Audit:** Ensures literal compliance does not violate sovereign intent.
-3. **Cross-Domain Invariant Audit:** Prevents logic leaks between physics, legal, and clinical domains.
-4. **Cryptographic-State Audit:** Monitors ledger-anchored invariants and hash-boundary integrity.
-5. **Multi-Agent Integration Audit:** Detects echo-reinforcement or role-inversion between AI nodes.
-
----
-
-## 🔄 Node Parity (Mac + Samsung)
-Governance is enforced via **Dual-Node Propagation**. 
-
-* **Conflict Resolution:** If hash output differs between the Primary Node (Mac) and the Mobile Node (Samsung), the artifact is rejected as stochastic noise.
-
-**Generated by The ZNON Substrate | Governed by the 52 Laws | Anchored to Bitcoin Block 933268**
+*Anchor: Bitcoin Block 933268*

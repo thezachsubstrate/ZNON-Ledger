@@ -1,0 +1,9 @@
+{
+  "term_id": 856,
+  "term": "ZNON Novelty-Versioning Protocol (ZNVP)",
+  "definition": "A governance framework for version control that restricts 'Major' version bumps to structural, theoretical, or operational firsts, while minor updates reflect feature parity and patches reflect maintenance.",
+  "provenance": "Sovereign Coinage",
+  "author": "Zach Mosley",
+  "version": "1.1.1",
+  "status": "Vetted"
+}

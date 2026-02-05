@@ -1,0 +1,12 @@
+{
+  "protocol_name": "ZNON Novelty-Versioning Protocol",
+  "protocol_id": "ZNVP-01",
+  "version": "1.1.1",
+  "description": "Standardized criteria for ZNON-Ledger innovation tracking.",
+  "rules": {
+    "vX.0.0": "Structural/Theoretical First or Fundamental Restructuring.",
+    "v0.X.0": "New Feature Addition (Standard or External Parity).",
+    "v0.0.X": "Patches, Bug Fixes, Maintenance."
+  },
+  "enforcement": "Substrate Audit Gateway"
+}

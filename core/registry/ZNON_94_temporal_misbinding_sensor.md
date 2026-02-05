@@ -3,7 +3,7 @@
 **Term:** Temporal Misbinding Sensor
 **Description:** ** Detector for facts anchored to the wrong time.
 **Status:** Logic-Locked
-**Timestamp:** 20260204_231913
+**Timestamp:** 20260204_232113
 **Anchor:** Bitcoin Block 933268
 **Root Author:** Zach Mosley
 ---

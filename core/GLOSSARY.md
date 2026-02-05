@@ -1,15 +1,3 @@
-
-# Alternative: If you have the terms in a file already:
-# cat terms_858.txt > core/GLOSSARY.md
-
-# 2. Run the seal protocol
-./seal_znon.sh
-
-# 3. Verify registry creation
-ls core/registry/*.md | wc -l  # Should show 858
-
-# 4. Push to GitHub
-git push origin main
 1. **52 Immutable Laws:** The constitutional framework governing the ZNON jurisdiction.
 
 (Terms 1-52 are defined in core/LAWS.md)
@@ -869,8 +857,5 @@ git push origin main
 853. **Sovereign Intent:** Shadow intent emerging to compete with real sovereign intent. (Layer: Sovereignty Audit)
 858. **The ZNON Sovereign Substrate:** The specific domain where the user maintains absolute control.
 
-855 | The Last Marathon | Sovereign Coinage | v1.1.1
-856 | ZNON Novelty-Versioning Protocol | Sovereign Coinage | v1.1.1
-
-855 | The Last Marathon | Sovereign Coinage | v1.1.1
-856 | ZNON Novelty-Versioning Protocol | Sovereign Coinage | v1.1.1
+855. **The Last Marathon:** Bridging profound innovation, efficiency, & complex frameworks with general use cases to realize widespread adoption. v1.1.1
+856. **ZNON Novelty-Versioning Protocol:**methodology for versioning which applies to registry files, glossary updates, script files, & all other files and updates. All firsts must be versioned V1.1.1. any minor updates would result in 3rd integer changes. That includes minor bug fixes and patches. When a new feature is added 2nd integer rolls forward on updates. For example a chatbot feature is added to the app. it would be versioned V1.2.1. Only massive changes or true innovation as demonstrated by factors that are measurable by a quantitative, quantitative, or functional measure. It must be an update that leads to a discovery, innovation, or structural change. If its an equally capable mousetrap as another tool that exists by comparison to other available tools & frameworks it would not rise to this level. It should be a truly unique innovation that is meaningful, advances the field or creates/defines a new category, & must present patent, copywrite or timestamps to verify authorship & ownership.

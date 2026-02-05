@@ -1,0 +1,9 @@
+=== TAXONOMY VALIDATION REPORT (20260204_153853) ===
+Validating taxonomy structure...
+
+❌ Malformed row: |---|---|---|
+❌ Missing field: |---|---|---|
+❌ Malformed row: ---
+❌ Missing field: ---
+
+Validation complete.

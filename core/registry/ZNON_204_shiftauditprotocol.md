@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 204
-Term: shiftauditprotocol
-Status: Logic-Locked
-Timestamp: 20260204_231055
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 204
+---
+**Term:** Shift Audit Protocol
+**Description:** ** Discrete steps for semantic shift-checking.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231444
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

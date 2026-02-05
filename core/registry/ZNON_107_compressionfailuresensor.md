@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 107
-Term: compressionfailuresensor
-Status: Logic-Locked
-Timestamp: 20260204_231050
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 107
+---
+**Term:** Compression Failure Sensor
+**Description:** ** Detector for meaning-loss in reduction.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231437
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

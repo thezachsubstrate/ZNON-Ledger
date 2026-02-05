@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 79
-Term: rootauthorid
-Status: Logic-Locked
-Timestamp: 20260204_231049
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 79
+---
+**Term:** Root Author ID
+**Description:** ** The primary cryptographic signature of the creator.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231433
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

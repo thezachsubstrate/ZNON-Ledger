@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 344
-Term: combinatorialoptimization
-Status: Logic-Locked
-Timestamp: 20260204_231101
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 344
+---
+**Term:** Combinatorial Optimization
+**Description:** ** Best combinations under rules.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231458
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 163
-Term: instructionalauditprotocol
-Status: Logic-Locked
-Timestamp: 20260204_231053
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 163
+---
+**Term:** Instructional Audit Protocol
+**Description:** ** Discrete steps for constraint verification.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231441
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

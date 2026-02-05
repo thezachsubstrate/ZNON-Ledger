@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 383
-Term: geologystructuralaudit
-Status: Logic-Locked
-Timestamp: 20260204_231103
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 383
+---
+**Term:** Geology Structural Audit
+**Description:** ** Earth-science data logic-locking.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231504
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

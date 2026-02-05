@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 151
-Term: compressiondriftaudit
-Status: Logic-Locked
-Timestamp: 20260204_231053
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 151
+---
+**Term:** Compression Drift Audit
+**Description:** ** Catching logic-shifts occurring during summarization.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231440
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

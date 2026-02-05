@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 206
-Term: mismatchauditprotocol
-Status: Logic-Locked
-Timestamp: 20260204_231055
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 206
+---
+**Term:** Mismatch Audit Protocol
+**Description:** ** Discrete steps for ledger/content checking.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231444
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

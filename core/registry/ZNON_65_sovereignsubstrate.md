@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 65
-Term: sovereignsubstrate
-Status: Logic-Locked
-Timestamp: 20260204_231048
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 65
+---
+**Term:** Sovereign Substrate
+**Description:** ** The specific domain where the user maintains absolute control.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231432
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

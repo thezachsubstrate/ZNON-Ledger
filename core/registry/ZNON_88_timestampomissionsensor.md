@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 88
-Term: timestampomissionsensor
-Status: Logic-Locked
-Timestamp: 20260204_231049
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 88
+---
+**Term:** Timestamp Omission Sensor
+**Description:** ** Detector for artifacts missing temporal proof.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231434
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

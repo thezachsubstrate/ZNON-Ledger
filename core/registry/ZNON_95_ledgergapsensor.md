@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 95
-Term: ledgergapsensor
-Status: Logic-Locked
-Timestamp: 20260204_231049
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 95
+---
+**Term:** Ledger Gap Sensor
+**Description:** ** Detector for missing historical data in the record.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231435
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

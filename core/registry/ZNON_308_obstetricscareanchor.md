@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 308
-Term: obstetricscareanchor
-Status: Logic-Locked
-Timestamp: 20260204_231059
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 308
+---
+**Term:** Obstetrics Care Anchor
+**Description:** ** Deterministic maternal health logic.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231452
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

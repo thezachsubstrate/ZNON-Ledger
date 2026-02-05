@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 273
-Term: vitalsignanchor
-Status: Logic-Locked
-Timestamp: 20260204_231058
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 273
+---
+**Term:** Vital Sign Anchor
+**Description:** ** Deterministic mapping of clinical measurements.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231448
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

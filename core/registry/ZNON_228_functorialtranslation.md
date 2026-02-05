@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 228
-Term: functorialtranslation
-Status: Logic-Locked
-Timestamp: 20260204_231056
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 228
+---
+**Term:** Functorial Translation
+**Description:** ** Preserving meaning when mapping truth between models.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231445
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

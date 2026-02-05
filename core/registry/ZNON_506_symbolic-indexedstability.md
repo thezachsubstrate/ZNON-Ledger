@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 506
-Term: symbolic-indexedstability
-Status: Logic-Locked
-Timestamp: 20260204_231109
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 506
+---
+**Term:** Symbolic-Indexed Stability
+**Description:** ** Metric measuring icon-meaning consistency.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231515
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

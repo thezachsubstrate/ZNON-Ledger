@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 352
-Term: quantumcomputinglogic
-Status: Logic-Locked
-Timestamp: 20260204_231102
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 352
+---
+**Term:** Quantum Computing Logic
+**Description:** ** Governing non-binary state-logic.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231459
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

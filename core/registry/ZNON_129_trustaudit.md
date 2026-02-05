@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 129
-Term: trustaudit
-Status: Logic-Locked
-Timestamp: 20260204_231052
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 129
+---
+**Term:** Trust Audit
+**Description:** ** Measurement of ambiguity in the instruction-to-output surface.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231439
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

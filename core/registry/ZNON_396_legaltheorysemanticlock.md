@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 396
-Term: legaltheorysemanticlock
-Status: Logic-Locked
-Timestamp: 20260204_231104
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 396
+---
+**Term:** Legal Theory Semantic Lock
+**Description:** ** Law-based reasoning vocabulary.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231506
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

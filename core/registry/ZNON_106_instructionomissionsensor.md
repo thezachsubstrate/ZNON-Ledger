@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 106
-Term: instructionomissionsensor
-Status: Logic-Locked
-Timestamp: 20260204_231050
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 106
+---
+**Term:** Instruction Omission Sensor
+**Description:** ** Detector for skipped user constraints.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231437
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

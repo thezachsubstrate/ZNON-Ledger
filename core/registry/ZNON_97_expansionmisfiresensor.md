@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 97
-Term: expansionmisfiresensor
-Status: Logic-Locked
-Timestamp: 20260204_231049
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 97
+---
+**Term:** Expansion Misfire Sensor
+**Description:** ** Detector for hallucinated details during expansion.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231436
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

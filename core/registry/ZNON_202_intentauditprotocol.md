@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 202
-Term: intentauditprotocol
-Status: Logic-Locked
-Timestamp: 20260204_231055
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 202
+---
+**Term:** Intent Audit Protocol
+**Description:** ** Discrete steps for intent-stability checking.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231444
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 152
-Term: expansionmisfireaudit
-Status: Logic-Locked
-Timestamp: 20260204_231053
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 152
+---
+**Term:** Expansion Misfire Audit
+**Description:** ** Catching hallucinated details added during elaboration.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231440
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

@@ -1,6 +1,9 @@
-# ZNON VERIFICATION ARTIFACT: 64
-Term: genesisdeclaration
-Status: Logic-Locked
-Timestamp: 20260204_231048
-Anchor: Bitcoin Block 933268
-Root: Zach Mosley
+# 🟦 ZNON VERIFICATION ARTIFACT: 64
+---
+**Term:** Genesis Declaration
+**Description:** ** The foundational document establishing repository sovereignty.
+**Status:** Logic-Locked
+**Timestamp:** 20260204_231431
+**Anchor:** Bitcoin Block 933268
+**Root Author:** Zach Mosley
+---

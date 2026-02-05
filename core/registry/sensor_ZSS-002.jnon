@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-002",
+  "name": "Temporal Drift",
+  "explanation": "Detects outdated/hallucinated timelines",
+  "use_case": "Fact Checking",
+  "application": "Anchor Sync",
+  "sealed": "2026-02-05T08:05:16.224805"
+}

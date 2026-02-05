@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-003",
+  "name": "Paradox Immunity",
+  "explanation": "Identifies logical contradictions",
+  "use_case": "Logic Auditing",
+  "application": "Law #1 Apply",
+  "sealed": "2026-02-05T08:05:23.204704"
+}

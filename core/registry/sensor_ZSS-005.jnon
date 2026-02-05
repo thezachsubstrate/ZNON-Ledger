@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-005",
+  "name": "Vibe-Check Sensor",
+  "explanation": "Detects conversational 'fluff' vs data",
+  "use_case": "Accuracy",
+  "application": "JNON Structure Check",
+  "sealed": "2026-02-05T08:05:39.258923"
+}

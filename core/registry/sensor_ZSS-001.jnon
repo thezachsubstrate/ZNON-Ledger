@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-001",
+  "name": "Semantic Anchor",
+  "explanation": "Ensures terms stay within Glossary bounds",
+  "use_case": "Audit Parity",
+  "application": "Check via Term #858",
+  "sealed": "2026-02-05T08:05:10.094310"
+}

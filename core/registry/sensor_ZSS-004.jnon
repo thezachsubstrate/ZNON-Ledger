@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-004",
+  "name": "Contextual Siphon",
+  "explanation": "Detects info leakage between domains",
+  "use_case": "Security",
+  "application": "Dual-Pane Isolation",
+  "sealed": "2026-02-05T08:05:31.240192"
+}

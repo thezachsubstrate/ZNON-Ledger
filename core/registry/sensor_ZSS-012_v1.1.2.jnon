@@ -1,0 +1,9 @@
+{
+  "sensor_id": "ZSS-012",
+  "name": "Contextual Siphon v2",
+  "explanation": "Deep isolation",
+  "use_case": "Security",
+  "application": "Dual-Pane v2",
+  "version": "1.1.2",
+  "sealed": "2026-02-05T08:32:57.276070"
+}

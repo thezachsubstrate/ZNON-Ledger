@@ -1,0 +1,9 @@
+{
+  "sensor_id": "ZSS-006",
+  "name": "Semantic Leakage",
+  "explanation": "Detects bias overrides",
+  "use_case": "Bias",
+  "application": "Law #3",
+  "version": "1.1.2",
+  "sealed": "2026-02-05T08:32:38.328451"
+}

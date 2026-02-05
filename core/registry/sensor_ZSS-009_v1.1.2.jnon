@@ -1,0 +1,9 @@
+{
+  "sensor_id": "ZSS-009",
+  "name": "Tone Policing Sensor",
+  "explanation": "Filters manipulation",
+  "use_case": "Audit",
+  "application": "Neutrality",
+  "version": "1.1.2",
+  "sealed": "2026-02-05T08:32:48.263440"
+}

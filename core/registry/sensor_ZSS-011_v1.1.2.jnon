@@ -1,0 +1,9 @@
+{
+  "sensor_id": "ZSS-011",
+  "name": "Structural First Audit",
+  "explanation": "Identifies novelty",
+  "use_case": "Innovation",
+  "application": "ZNVP Filter",
+  "version": "1.1.2",
+  "sealed": "2026-02-05T08:32:54.272236"
+}

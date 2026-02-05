@@ -1,4 +1,4 @@
-# ZNON Governance: The 40 Laws
+# ZNON Governance: The 52 Laws
 > **Status:** 9-Sigma Logic-Locked
 > **Anchor:** Bitcoin Block 933268
 

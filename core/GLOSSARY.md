@@ -871,3 +871,6 @@ git push origin main
 
 855 | The Last Marathon | Sovereign Coinage | v1.1.1
 856 | ZNON Novelty-Versioning Protocol | Sovereign Coinage | v1.1.1
+
+855 | The Last Marathon | Sovereign Coinage | v1.1.1
+856 | ZNON Novelty-Versioning Protocol | Sovereign Coinage | v1.1.1

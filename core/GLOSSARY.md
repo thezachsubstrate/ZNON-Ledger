@@ -1,15 +1,3 @@
-
-# Alternative: If you have the terms in a file already:
-# cat terms_858.txt > core/GLOSSARY.md
-
-# 2. Run the seal protocol
-./seal_znon.sh
-
-# 3. Verify registry creation
-ls core/registry/*.md | wc -l  # Should show 858
-
-# 4. Push to GitHub
-git push origin main
 1. **52 Immutable Laws:** The constitutional framework governing the ZNON jurisdiction.
 
 (Terms 1-52 are defined in core/LAWS.md)

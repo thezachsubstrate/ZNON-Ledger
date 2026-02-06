@@ -1,0 +1,10 @@
+{
+  "logic": "THREAD_TO_ARTIFACT_PROMOTION",
+  "trigger": "User_Manual_Promotion OR Sigma_9_Detected",
+  "action": {
+    "extract_logic_gate": "TRUE",
+    "timestamp_logic": "OTS_MANDATORY",
+    "backup_to_dual_node": "TRUE"
+  },
+  "value_protection": "Ensures chat breakthroughs are codified into the Substrate registry."
+}

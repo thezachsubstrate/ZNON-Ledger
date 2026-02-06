@@ -1,0 +1,6 @@
+{
+    "term": "Cross Modal Attribution Error:",
+    "definition": "Attachment of visual/audio properties to wrong semantic token. (Layer: Attribution Error)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

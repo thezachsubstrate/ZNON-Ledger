@@ -1,0 +1,6 @@
+{
+    "term": "Perceptual Over Correction:",
+    "definition": "Valid variance removed as noise by denoising filters. (Layer: Over-Correction)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

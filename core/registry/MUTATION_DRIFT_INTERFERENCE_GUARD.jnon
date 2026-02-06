@@ -1,0 +1,6 @@
+{
+    "term": "Mutation Drift Interference Guard:",
+    "definition": "A barrier preventing conceptual evolution from introducing semantic drift. (Layer: Mutation Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

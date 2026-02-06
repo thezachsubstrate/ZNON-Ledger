@@ -1,0 +1,6 @@
+{
+    "term": "Timestamp Omission Sensor:",
+    "definition": "Detector for artifacts missing temporal proof.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

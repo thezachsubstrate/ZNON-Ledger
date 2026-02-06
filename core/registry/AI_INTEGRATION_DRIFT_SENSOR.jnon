@@ -1,0 +1,6 @@
+{
+    "term": "AI Integration Drift Sensor:",
+    "definition": "A detector identifying interpretive divergence between AI models. (Layer: Integration Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

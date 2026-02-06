@@ -1,0 +1,6 @@
+{
+    "term": "Trust Surface Mapping Engine:",
+    "definition": "A tool that visualizes and localizes ambiguity across the instruction\u2011to\u2011output surface. (Layer: Trust Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

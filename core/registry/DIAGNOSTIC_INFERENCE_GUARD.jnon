@@ -1,0 +1,6 @@
+{
+    "term": "Diagnostic Inference Guard:",
+    "definition": "Preventing over-reaching stochastic diagnoses.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

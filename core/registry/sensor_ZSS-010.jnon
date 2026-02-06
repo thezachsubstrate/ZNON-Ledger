@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-010",
+  "name": "Probability Drift",
+  "explanation": "Detects when AI guesses instead of knowing",
+  "use_case": "Certainty Check",
+  "application": "Law #12 Apply",
+  "sealed": "2026-02-05T08:31:20.999598"
+}

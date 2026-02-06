@@ -1,0 +1,6 @@
+{
+    "term": "Physics Law Consistency Buffer:",
+    "definition": "A reasoning filter that blocks outputs violating physical invariants. (Layer: Physics Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

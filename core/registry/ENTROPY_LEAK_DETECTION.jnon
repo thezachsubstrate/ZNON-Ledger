@@ -1,0 +1,6 @@
+{
+    "term": "Entropy Leak Detection:",
+    "definition": "Sensor identifying stochastic noise entry.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

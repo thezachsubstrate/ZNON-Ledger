@@ -1,0 +1,6 @@
+{
+    "term": "Latent Cluster:",
+    "definition": "Assigning concepts to wrong clusters due to embedding noise. (Layer: Structural Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

@@ -1,0 +1,6 @@
+{
+    "term": "Compression Drift Audit:",
+    "definition": "Catching logic-shifts occurring during summarization.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

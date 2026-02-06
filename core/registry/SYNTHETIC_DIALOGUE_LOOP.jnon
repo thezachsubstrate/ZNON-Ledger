@@ -1,0 +1,6 @@
+{
+    "term": "Synthetic Dialogue Loop:",
+    "definition": "Two agents feed back multimodal data creating false agreement. (Layer: Dialogue Loop)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

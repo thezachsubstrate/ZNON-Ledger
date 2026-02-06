@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-008",
+  "name": "Recursive Logic Check",
+  "explanation": "Detects circular reasoning loops",
+  "use_case": "Logical Audit",
+  "application": "Loop Break",
+  "sealed": "2026-02-05T08:31:08.961627"
+}

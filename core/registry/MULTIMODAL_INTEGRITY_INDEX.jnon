@@ -1,0 +1,6 @@
+{
+    "term": "Multimodal Integrity Index:",
+    "definition": "Composite health metric across all new sensors. (Layer: Integrity)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

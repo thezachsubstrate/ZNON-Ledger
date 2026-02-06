@@ -1,0 +1,6 @@
+{
+    "term": "Lag Audit:",
+    "definition": "Detecting truth-sync delays between local and remote nodes.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

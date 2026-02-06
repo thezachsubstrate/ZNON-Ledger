@@ -1,0 +1,6 @@
+{
+    "term": "Dependency Audit:",
+    "definition": "Mapping of parent-child relationships between data units.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

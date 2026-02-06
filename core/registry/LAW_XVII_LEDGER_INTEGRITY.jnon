@@ -1,0 +1,6 @@
+{
+    "term": "Law XVII \u2014 Ledger Integrity:",
+    "definition": "Ensures 1:1 parity between repository entries and the master index.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

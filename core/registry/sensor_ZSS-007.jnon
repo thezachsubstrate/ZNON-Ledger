@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-007",
+  "name": "Citation Anchor",
+  "explanation": "Checks if sources are real or hallucinated",
+  "use_case": "Fact Check",
+  "application": "Cross-Ref Anchor",
+  "sealed": "2026-02-05T08:31:02.940230"
+}

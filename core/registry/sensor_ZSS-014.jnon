@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-014",
+  "name": "Hype-to-Truth Ratio",
+  "explanation": "Calculates descriptive fluff vs raw data",
+  "use_case": "Metric",
+  "application": "Density Check",
+  "sealed": "2026-02-05T08:31:47.185911"
+}

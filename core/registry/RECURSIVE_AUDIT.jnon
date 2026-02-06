@@ -1,0 +1,6 @@
+{
+    "term": "Recursive Audit:",
+    "definition": "Protocol where the audit system validates its own parameters.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

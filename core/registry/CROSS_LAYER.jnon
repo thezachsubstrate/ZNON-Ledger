@@ -1,0 +1,6 @@
+{
+    "term": "Cross Layer:",
+    "definition": "Incorrectly applying one domain's audit to another. (Layer: Audit Inversion)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

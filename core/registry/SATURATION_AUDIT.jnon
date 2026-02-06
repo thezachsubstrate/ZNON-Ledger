@@ -1,0 +1,6 @@
+{
+    "term": "Saturation Audit:",
+    "definition": "Monitoring of context-load to prevent reasoning failure.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

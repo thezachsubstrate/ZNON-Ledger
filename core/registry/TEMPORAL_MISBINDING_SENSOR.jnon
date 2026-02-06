@@ -1,0 +1,6 @@
+{
+    "term": "Temporal Misbinding Sensor:",
+    "definition": "Detector for facts anchored to the wrong time.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

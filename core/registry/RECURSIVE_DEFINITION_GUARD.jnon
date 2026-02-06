@@ -1,0 +1,6 @@
+{
+    "term": "Recursive Definition Guard:",
+    "definition": "Preventing circular logic in glossary.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

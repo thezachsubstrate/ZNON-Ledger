@@ -1,0 +1,6 @@
+{
+    "term": "Boundary Breach Detection:",
+    "definition": "Sensor identifying crossed glossary limits.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

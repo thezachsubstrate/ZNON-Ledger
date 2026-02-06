@@ -1,0 +1,6 @@
+{
+    "term": "Dialogue Audit:",
+    "definition": "Cross\u2011agent causal trace interrogation preventing feedback\u2011hallucination. (Layer: Dialogue Loop)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

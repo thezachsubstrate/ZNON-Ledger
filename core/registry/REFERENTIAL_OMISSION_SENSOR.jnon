@@ -1,0 +1,6 @@
+{
+    "term": "Referential Omission Sensor:",
+    "definition": "Detector for missing internal dependencies.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

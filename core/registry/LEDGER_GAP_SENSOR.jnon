@@ -1,0 +1,6 @@
+{
+    "term": "Ledger Gap Sensor:",
+    "definition": "Detector for missing historical data in the record.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

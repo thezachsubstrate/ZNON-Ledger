@@ -1,0 +1,6 @@
+{
+    "term": "Root Author ID:",
+    "definition": "The primary cryptographic signature of the creator.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

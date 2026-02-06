@@ -1,0 +1,6 @@
+{
+    "term": "Diagnosis-to-Treatment Anchor:",
+    "definition": "Linkage between ICD codes and governed protocols.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

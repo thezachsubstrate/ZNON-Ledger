@@ -1,0 +1,6 @@
+{
+    "term": "Audit Saturation Sensor:",
+    "definition": "Detector for sensor noise in high-density audits.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

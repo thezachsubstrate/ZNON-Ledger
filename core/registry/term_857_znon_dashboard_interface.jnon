@@ -1,0 +1,9 @@
+{
+  "term_id": 857,
+  "term": "ZNON Dashboard Interface (ZDI)",
+  "definition": "The deterministic visual gateway for human-sensor interaction. It serves as the primary mobile/web interface for real-time hallucination auditing and ledger management.",
+  "provenance": "Sovereign Coinage",
+  "author": "Zach Mosley",
+  "version": "1.1.2",
+  "status": "Vetted"
+}

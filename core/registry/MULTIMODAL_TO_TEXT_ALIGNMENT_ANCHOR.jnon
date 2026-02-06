@@ -1,0 +1,6 @@
+{
+    "term": "Multimodal to Text Alignment Anchor:",
+    "definition": "A cross\u2011modal constraint ensuring multimodal reasoning matches textual meaning. (Layer: Multimodal Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

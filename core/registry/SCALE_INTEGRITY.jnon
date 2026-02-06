@@ -1,0 +1,6 @@
+{
+    "term": "Scale Integrity:",
+    "definition": "Verifies logical consistency across micro (code) and macro (framework) scales. (Layer: Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

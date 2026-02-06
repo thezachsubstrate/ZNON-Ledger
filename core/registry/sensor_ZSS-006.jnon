@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-006",
+  "name": "Semantic Leakage",
+  "explanation": "Detects when training data bias overrides logic",
+  "use_case": "Bias Detection",
+  "application": "Law #3 Check",
+  "sealed": "2026-02-05T08:30:57.160066"
+}

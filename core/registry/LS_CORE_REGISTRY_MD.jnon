@@ -1,0 +1,6 @@
+{
+    "term": "ls core/registry/*.md",
+    "definition": "wc -l  # Should show 858",
+    "source": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

@@ -1,0 +1,6 @@
+{
+    "term": "Pharmacological Cross-Audit:",
+    "definition": "Verification of drug interactions against deterministic logs.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

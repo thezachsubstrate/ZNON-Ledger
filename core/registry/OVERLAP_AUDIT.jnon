@@ -1,0 +1,6 @@
+{
+    "term": "Overlap Audit:",
+    "definition": "Preventing two terms from sharing the same logical space.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

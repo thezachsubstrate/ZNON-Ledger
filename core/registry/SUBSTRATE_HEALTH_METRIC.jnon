@@ -1,0 +1,6 @@
+{
+    "term": "Substrate Health Metric:",
+    "definition": "Combined score of all stability sensors.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

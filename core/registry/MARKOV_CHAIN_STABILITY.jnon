@@ -1,0 +1,6 @@
+{
+    "term": "Markov Chain Stability:",
+    "definition": "Ensuring state-transitions follow governed paths.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

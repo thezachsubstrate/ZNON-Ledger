@@ -1,0 +1,6 @@
+{
+    "term": "Medical Interpretive Drift Sensor:",
+    "definition": "A detector identifying deviations from governed clinical reasoning. (Layer: Clinical Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

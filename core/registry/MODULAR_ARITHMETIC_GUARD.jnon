@@ -1,0 +1,6 @@
+{
+    "term": "Modular Arithmetic Guard:",
+    "definition": "Enforcing wrap-around logic rules.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

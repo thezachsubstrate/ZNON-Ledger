@@ -1,0 +1,6 @@
+{
+    "term": "Latency Audit:",
+    "definition": "Monitoring delay in structure transmission. (Layer: Propagation Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

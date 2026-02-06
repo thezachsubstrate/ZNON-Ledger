@@ -1,0 +1,6 @@
+{
+    "term": "Attention Field Drift:",
+    "definition": "Focus layers target irrelevant regions of multimodal input. (Layer: Field Drift)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

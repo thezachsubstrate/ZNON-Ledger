@@ -1,0 +1,6 @@
+{
+    "term": "Ledger Misalignment Detection:",
+    "definition": "Sensor identifying ledger/content mismatch.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

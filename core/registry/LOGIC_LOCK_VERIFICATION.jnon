@@ -1,0 +1,6 @@
+{
+    "term": "Logic-Lock Verification:",
+    "definition": "Final state-check for file integrity before commit.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

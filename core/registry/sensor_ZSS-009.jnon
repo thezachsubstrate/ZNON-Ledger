@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-009",
+  "name": "Tone Policing Sensor",
+  "explanation": "Filters emotional manipulation in AI output",
+  "use_case": "Audit",
+  "application": "Neutrality Check",
+  "sealed": "2026-02-05T08:31:14.993693"
+}

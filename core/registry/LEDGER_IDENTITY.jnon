@@ -1,0 +1,6 @@
+{
+    "term": "Ledger Identity:",
+    "definition": "Identity states anchored to different ledger timestamps. (Layer: Ledger Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

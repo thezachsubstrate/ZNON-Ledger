@@ -1,0 +1,6 @@
+{
+    "term": "Expansion Audit:",
+    "definition": "Monitoring for runaway elaboration or context-window saturation. (Layer: Expansion Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

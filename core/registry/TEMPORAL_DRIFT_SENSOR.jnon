@@ -1,0 +1,6 @@
+{
+    "term": "Temporal Drift Sensor:",
+    "definition": "Detector for timeline inconsistencies.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

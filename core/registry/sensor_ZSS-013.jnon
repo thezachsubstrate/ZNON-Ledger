@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-013",
+  "name": "Ghost Path Detection",
+  "explanation": "Finds references to non-existent files",
+  "use_case": "Debug",
+  "application": "Path Verify",
+  "sealed": "2026-02-05T08:31:41.119185"
+}

@@ -1,0 +1,6 @@
+{
+    "term": "Role Consistency:",
+    "definition": "Governs role-assignment and parity in multi-agent environments. (Layer: Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

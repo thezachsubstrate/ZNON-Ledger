@@ -1,0 +1,6 @@
+{
+    "term": "Audit Omission Audit:",
+    "definition": "Detecting the failure of a required sensor to activate.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

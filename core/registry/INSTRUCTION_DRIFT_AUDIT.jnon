@@ -1,0 +1,6 @@
+{
+    "term": "Instruction Drift Audit:",
+    "definition": "Detecting shifts in the sequence of command fulfillment.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

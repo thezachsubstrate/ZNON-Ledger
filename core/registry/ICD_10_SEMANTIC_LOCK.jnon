@@ -1,0 +1,6 @@
+{
+    "term": "ICD-10 Semantic Lock:",
+    "definition": "Anchoring ICD-10 codes to immutable definitions.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

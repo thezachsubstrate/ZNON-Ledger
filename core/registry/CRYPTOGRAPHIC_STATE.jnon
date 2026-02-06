@@ -1,0 +1,6 @@
+{
+    "term": "Cryptographic State:",
+    "definition": "Monitors ledger-anchored invariants and hash-boundary integrity. (Layer: Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

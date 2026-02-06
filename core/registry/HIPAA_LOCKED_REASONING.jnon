@@ -1,0 +1,6 @@
+{
+    "term": "HIPAA-Locked Reasoning:",
+    "definition": "Protocol preventing PII leaks during inference.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

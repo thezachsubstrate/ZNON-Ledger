@@ -1,0 +1,6 @@
+{
+    "term": "Audit Parity Score:",
+    "definition": "Ratio of failure-modes to active sensors.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

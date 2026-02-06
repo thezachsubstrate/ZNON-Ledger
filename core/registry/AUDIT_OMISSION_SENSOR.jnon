@@ -1,0 +1,6 @@
+{
+    "term": "Audit Omission Sensor:",
+    "definition": "Detector for failed sensor activations.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

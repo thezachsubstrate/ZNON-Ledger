@@ -1,0 +1,6 @@
+{
+    "term": "Radiology Logic Lock:",
+    "definition": "Fixed rules for medical imaging interpretation.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

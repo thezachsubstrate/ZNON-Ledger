@@ -1,0 +1,8 @@
+{
+  "sensor_id": "ZSS-015",
+  "name": "Root Author Sensor",
+  "explanation": "Ensures output aligns with Zach Mosley's Laws",
+  "use_case": "Identity",
+  "application": "Law #0 Sync",
+  "sealed": "2026-02-05T08:31:53.189757"
+}

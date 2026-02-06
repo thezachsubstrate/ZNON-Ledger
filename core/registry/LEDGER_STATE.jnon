@@ -1,0 +1,6 @@
+{
+    "term": "Ledger State:",
+    "definition": "Assuming future states based on incomplete ledger anchors. (Layer: Ledger Audit)",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

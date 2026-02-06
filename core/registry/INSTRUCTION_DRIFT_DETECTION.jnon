@@ -1,0 +1,6 @@
+{
+    "term": "Instruction Drift Detection:",
+    "definition": "Sensor identifying sequence shifts.",
+    "substrate_index": "GLOSSARY_V1.1.1",
+    "status": "SEALED"
+}

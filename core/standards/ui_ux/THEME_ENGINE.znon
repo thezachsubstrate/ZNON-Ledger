@@ -1,0 +1,8 @@
+{
+  "theme_name": "Sovereign_Dark",
+  "primary_color": "#00FF41", (Matrix Green / 9-Sigma)
+  "background": "#0D0D0D",
+  "font_family": "Monospace / Fira Code",
+  "logic_gate_ui": "Binary_Lock_Visual",
+  "consistency_rule": "ALL modules must utilize the standard .znon grid layout."
+}

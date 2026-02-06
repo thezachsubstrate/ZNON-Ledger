@@ -1,0 +1,13 @@
+{
+  "artifact_id": "ZNON-STATE-001",
+  "type": "UI_Persistence_Object",
+  "substrate_rules": "Inherited_L1",
+  "structure": {
+    "active_tab": "STRING",
+    "pinned_znons": "ARRAY",
+    "agent_context_id": "UUID",
+    "ui_configuration": "JSON_BLOB"
+  },
+  "persistence_mode": "AUTO_SAVE_TO_LEDGER",
+  "sigma_level": "9"
+}

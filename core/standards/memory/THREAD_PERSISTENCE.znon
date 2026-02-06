@@ -1,0 +1,15 @@
+{
+  "protocol_id": "ZNON-MEM-001",
+  "storage_type": "LIVING_ARTIFACT",
+  "sync_interval": "REAL_TIME",
+  "features": {
+    "branching": "ENABLED_FOR_TIER_3",
+    "context_injection": "AUTOMATIC_ON_LOAD",
+    "zero_loss_guarantee": "MANDATORY"
+  },
+  "metadata": {
+    "last_logic_gate": "UUID",
+    "active_glossary_terms": "ARRAY",
+    "pending_hallmark_verifications": "ARRAY"
+  }
+}

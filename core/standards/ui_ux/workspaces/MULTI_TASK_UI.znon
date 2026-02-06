@@ -1,0 +1,6 @@
+{
+  "ui_id": "UI-MULTI-THREAD-001",
+  "layout": "Tabbed_Within_Strate",
+  "description": "Allows for multiple persistent task sidebars within a single domain workspace (e.g., MedStrate).",
+  "state_retention": "PERPETUAL"
+}

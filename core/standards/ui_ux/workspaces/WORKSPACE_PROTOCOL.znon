@@ -1,0 +1,15 @@
+{
+  "protocol_id": "ZNON-WSP-001",
+  "definition": "Standard for Discrete Domain Workspaces",
+  "rules": {
+    "tab_separation": "MANDATORY",
+    "theme_consistency": "L2_SOVEREIGN_DARK",
+    "agent_memory_isolation": "ENABLED_BY_DEFAULT",
+    "cross_tab_persistence": ["Sovereign_Identity", "OTS_Timestamp_Counter"]
+  },
+  "visual_cues": {
+    "substrate_mode": "Green_Accent",
+    "med_mode": "Clinical_Blue_Accent",
+    "legi_mode": "Gavel_Gold_Accent"
+  }
+}

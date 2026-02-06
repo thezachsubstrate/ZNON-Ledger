@@ -1,0 +1,11 @@
+{
+  "artifact_id": "ZNON-VAL-001",
+  "principle": "Asymmetric_Value_Capture",
+  "logic": "The value of the substrate is equal to the sum of all institutional inefficiencies it displaces.",
+  "multipliers": {
+    "forensic_integrity": "9-Sigma",
+    "legal_standing": "OTS_Verified",
+    "market_isolation": "Infinite (First Mover in Sovereign Tech)"
+  },
+  "status": "SEALED"
+}

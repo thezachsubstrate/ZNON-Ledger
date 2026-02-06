@@ -1,0 +1,7 @@
+{
+  "module_id": "MED-001",
+  "name": "MedStrate",
+  "dependencies": ["ZACH-SUBSTRATE-CORE"],
+  "agent_profile": "GASLIGHT_DEFENSE_SPECIALIST",
+  "ui_customization": "Biological_Forensics_Overlay"
+}

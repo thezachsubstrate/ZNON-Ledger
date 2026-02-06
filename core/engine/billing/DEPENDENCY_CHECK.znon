@@ -1,0 +1,7 @@
+{
+  "logic": "INHERITANCE_ENFORCEMENT",
+  "rule_001": "IF module_active == TRUE AND substrate_active == FALSE THEN trigger REJECT_ACCESS",
+  "rule_002": "Agent_Focus = Current_Active_Module",
+  "rule_003": "UI_Theme = 'ZACH_SUBSTRATE_DARK_MODE' (Standardized)",
+  "sigma_level": "9"
+}

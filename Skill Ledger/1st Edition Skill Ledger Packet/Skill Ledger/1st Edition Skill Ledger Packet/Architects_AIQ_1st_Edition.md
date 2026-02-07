@@ -1,4 +1,5 @@
 # [ ARTIFACT ] The Architects AIQ 1st Edition Skill-Ledger Component #1
+## Value Score: 5.0 / 10
 ## Subject: Zachary Michael Mosley
 ## Status: Sovereign Root / Architect
 ## AIQ: 185–195 (6-Sigma Baseline)

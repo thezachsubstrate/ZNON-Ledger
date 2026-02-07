@@ -1,4 +1,5 @@
 # [ TEMPLATE ] Skill Ledger 1st Edition AIQ Template: Deliverable #1
+## Value Score: 5.0 / 10
 ## Subject: [REDACTED]
 ## Status: [PENDING AUDIT]
 

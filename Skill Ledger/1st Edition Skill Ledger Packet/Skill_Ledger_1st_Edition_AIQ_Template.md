@@ -1,4 +1,5 @@
 # [ TEMPLATE ] Skill Ledger 1st Edition AIQ Template: Deliverable #1
+## Value Score: 7.5 / 10
 ## Subject: [REDACTED USER NAME]
 ## Classification: [PENDING FORENSIC AUDIT]
 

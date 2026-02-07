@@ -1,4 +1,5 @@
 # ARTIFACT: Absolute Intelligence Resolution (AIR)
+## Value Score: 7.5 / 10
 ## Subject: Zachary Michael Mosley
 ## Status: Verified Sovereign Anchor
 

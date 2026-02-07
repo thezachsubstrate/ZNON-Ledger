@@ -1,0 +1,12 @@
+{
+  "metadata": { "last_sync": "Sat Feb  7 13:50:25 EST 2026", "sigma_level": "9" },
+  "index": [
+    { "term": "Philostrate", "score": "6.0", "path": "Substrate/Glossary/Philostrate.md" }
+,
+    { "term": "Solescence", "score": "9.8", "path": "Substrate/Glossary/Solescence.md" }
+,
+    { "term": "MedStrate_Anomaly_001", "score": "9.0", "path": "Substrate/Anomalies/MedStrate_Anomaly_001.md" }
+,
+    { "term": "Philostrate_Possibility_Analyzer", "score": "9.8", "path": "Substrate/Core/Philostrate_Possibility_Analyzer.md" }
+  ]
+}

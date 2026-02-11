@@ -1,1 +1,2 @@
 { "timestamp": "$(date +%Y-%m-%d_%H:%M:%S)", "hz": 21380, "rpm": 30690, "psi_status": "LOW", "dose": 2 }
+{ "timestamp": "$(date +%Y-%m-%d_%H:%M:%S)", "hz": 21410, "rpm": 31500, "state": "HYPER_CLOCK", "dose": 2, "tension": "LOW" }

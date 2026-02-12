@@ -1,0 +1,8 @@
+{
+  "substrate_root": "ZNON-Ledger",
+  "primary_anchor": "933268",
+  "verification_url": "https://github.com/Thezachsubstrate/ZNON-Ledger.git",
+  "last_recon": "2026-02-12T13:06:31Z",
+  "parity_target": 125,
+  "current_parity": 6
+}
